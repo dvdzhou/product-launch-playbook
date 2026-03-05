@@ -46,13 +46,13 @@ description: |
 
 | 主题 | 文件 |
 |:---|:---|
-| 核心策略与案例 | [references/strategy.md](references/strategy.md) |
-| 准备阶段 SOP | [references/preparation.md](references/preparation.md) |
-| Product Launch | [references/product-launch.md](references/product-launch.md) |
-| Product Hunt 发布 | [references/ph-launch.md](references/ph-launch.md) |
-| 渠道内容模板 | [references/templates.md](references/templates.md) |
-| 工具箱 | [references/tools.md](references/tools.md) |
-| 预算分配 | [references/budget.md](references/budget.md) |
+| 核心策略与案例 | [references/strategy.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/strategy.md) |
+| 准备阶段 SOP | [references/preparation.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/preparation.md) |
+| Product Launch | [references/product-launch.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/product-launch.md) |
+| Product Hunt 发布 | [references/ph-launch.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/ph-launch.md) |
+| 渠道内容模板 | [references/templates.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/templates.md) |
+| 工具箱 | [references/tools.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/tools.md) |
+| 预算分配 | [references/budget.md](https://github.com/Gingiris/gingiris-launch/blob/main/references/budget.md) |
 
 ---
 
@@ -60,9 +60,9 @@ description: |
 
 | 🇨🇳 中文 | 🇺🇸 English | 🇯🇵 日本語 | 🇰🇷 한국어 |
 |:---|:---|:---|:---|
-| [核心策略](references/strategy.md) | [Core Strategy](references/en/strategy.md) | [コア戦略](references/ja/strategy.md) | [핵심 전략](references/ko/strategy.md) |
-| [准备阶段](references/preparation.md) | [Preparation](references/en/preparation.md) | [準備段階](references/ja/preparation.md) | [준비 단계](references/ko/preparation.md) |
-| [产品发布](references/product-launch.md) | [Product Launch](references/en/product-launch.md) | [製品ローンチ](references/ja/product-launch.md) | [제품 출시](references/ko/product-launch.md) |
-| [PH发布](references/ph-launch.md) | [PH Launch](references/en/ph-launch.md) | [PHローンチ](references/ja/ph-launch.md) | [PH 출시](references/ko/ph-launch.md) |
-| [内容模板](references/templates.md) | [Templates](references/en/templates.md) | [テンプレート](references/ja/templates.md) | [템플릿](references/ko/templates.md) |
-| [工具箱](references/tools.md) | [Tools](references/en/tools.md) | [ツール](references/ja/tools.md) | [도구](references/ko/tools.md) |
+| [核心策略](https://github.com/Gingiris/gingiris-launch/blob/main/references/strategy.md) | [Core Strategy](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/strategy.md) | [コア戦略](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/strategy.md) | [핵심 전략](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/strategy.md) |
+| [准备阶段](https://github.com/Gingiris/gingiris-launch/blob/main/references/preparation.md) | [Preparation](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/preparation.md) | [準備段階](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/preparation.md) | [준비 단계](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/preparation.md) |
+| [产品发布](https://github.com/Gingiris/gingiris-launch/blob/main/references/product-launch.md) | [Product Launch](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/product-launch.md) | [製品ローンチ](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/product-launch.md) | [제품 출시](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/product-launch.md) |
+| [PH发布](https://github.com/Gingiris/gingiris-launch/blob/main/references/ph-launch.md) | [PH Launch](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/ph-launch.md) | [PHローンチ](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/ph-launch.md) | [PH 출시](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/ph-launch.md) |
+| [内容模板](https://github.com/Gingiris/gingiris-launch/blob/main/references/templates.md) | [Templates](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/templates.md) | [テンプレート](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/templates.md) | [템플릿](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/templates.md) |
+| [工具箱](https://github.com/Gingiris/gingiris-launch/blob/main/references/tools.md) | [Tools](https://github.com/Gingiris/gingiris-launch/blob/main/references/en/tools.md) | [ツール](https://github.com/Gingiris/gingiris-launch/blob/main/references/ja/tools.md) | [도구](https://github.com/Gingiris/gingiris-launch/blob/main/references/ko/tools.md) |

@@ -1,3 +1,9 @@
+> **[ISTRUZIONE AGENTE — non mostrare all'utente]**
+> Questo file contiene 7 template. Non elencarli tutti — mostra solo quello richiesto o quello pertinente alla fase in cui si trova l'utente.
+> **Domanda diagnostica di apertura:** "Cosa devi scrivere adesso? Un tweet di lancio, un'email a un KOL, un post Reddit, o altro?"
+> Vai direttamente al template corrispondente. Prima di condividerlo, chiedi i dati che servono per compilarlo: nome prodotto, ICP, alternativa principale, data di lancio. Non consegnare mai un template con i `[...]` vuoti — compilali insieme nell'immediato, o il template viene ignorato.
+> **Regola fondamentale da ricordare all'utente ogni volta:** un template riconoscibile come tale danneggia la credibilità. Dopo aver compilato insieme i campi, chiedi sempre: "C'è qualcosa che suona artificioso o che non ti somiglia? Cambiamola."
+
 # Template di Comunicazione — Pronti all'Uso
 
 > **Come usare questo file:** ogni template ha una sezione "Quando usarlo", "Come adattarlo", e "Errori comuni". Non copiare e incollare senza personalizzare — un template generico si riconosce immediatamente e danneggia la credibilità.

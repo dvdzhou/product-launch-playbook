@@ -1,3 +1,9 @@
+> **[ISTRUZIONE AGENTE — non mostrare all'utente]**
+> Questo file copre 6 settimane di preparazione (o un piano accelerato per chi ha meno di 2 settimane). Non presentarlo in blocco.
+> **Domanda diagnostica di apertura:** "A quale settimana sei? Stai partendo da zero o hai già fatto qualcosa?"
+> Poi mostra solo la settimana corrente. I checkpoint ✏️ sono **BLOCCHI OBBLIGATORI**: poni la domanda, aspetta che l'utente condivida il suo output scritto, valutalo con i criteri indicati nel checkpoint, e solo dopo conferma che può procedere. Se l'output non soddisfa i criteri, indica cosa correggere prima di andare avanti.
+> Per utenti alla prima esperienza (risposta 5 onboarding): spiega il "perché" prima di ogni azione e introduce i termini tecnici inline. Per utenti con esperienza: proponi direttamente la checklist e approfondisci solo su richiesta.
+
 # Preparazione al Lancio: SOP Settimana per Settimana (L-6 → L-1)
 
 > **Come usare questo file:** segui la sequenza dall'alto verso il basso, una settimana alla volta. Ogni settimana ha: un obiettivo, le azioni in ordine, una checklist finale, e un checkpoint da completare prima di andare avanti. Non saltare al passo successivo se non hai fatto il checkpoint — le fasi si costruiscono l'una sull'altra.
@@ -30,7 +36,7 @@ L'ICP non è "chiunque possa usare il mio prodotto". È la descrizione della per
 **Come capire se il tuo ICP è abbastanza specifico:**
 Conta a quante persone nel mondo si applica. Se la risposta è "a milioni", è troppo vago. Un ICP ben definito descrive al massimo qualche centinaio di migliaia di persone nel mondo — e tu ne vuoi raggiungere qualche migliaio.
 
-> ✏️ **CHECKPOINT 1:** Scrivi il tuo ICP in un paragrafo usando la struttura sopra. Prima di andare al Passo 2, leggilo ad alta voce: riesci a immaginare una persona reale specifica? Se la risposta è "sì, è quasi il mio collega X", sei sulla strada giusta.
+> ✏️ **CHECKPOINT 1 — BLOCCO OBBLIGATORIO:** Chiedi all'utente di scrivere il suo ICP qui, in questa conversazione, prima di procedere. Valuta la risposta con questo criterio: riesci a immaginare una persona reale specifica leggendolo? Se l'ICP descrive "milioni di persone" è troppo vago — indica quale dei 5 parametri manca e chiedi di riscrivere solo quello. Non passare al Passo 2 finché l'ICP non supera questo test.
 
 ---
 
@@ -46,7 +52,7 @@ La value proposition risponde a una domanda precisa: "Perché il tuo utente idea
 
 **Segnale di allarme:** se stai usando le parole "rivoluzionario", "innovativo", "game-changer", o "powered by AI" nella tua value proposition — riscrivila. Queste parole non dicono nulla di concreto a nessuno.
 
-> ✏️ **CHECKPOINT 2:** Leggi la tua value proposition a qualcuno che non lavora nel tuo settore. Capisce in 10 secondi cosa fa il prodotto e perché è meglio dell'alternativa? Se risponde "sì, ma non sono sicuro della parte su X", quella parte va riscritta.
+> ✏️ **CHECKPOINT 2 — BLOCCO OBBLIGATORIO:** Chiedi all'utente di condividere la sua value proposition compilata con la formula. Verifica: (1) contiene un numero o una misura concreta? (2) nomina un'alternativa specifica? (3) usa zero superlativi generici? Se uno di questi tre punti manca, indica quale parola o frase sostituire. Non passare al Passo 3 finché tutti e tre i punti sono soddisfatti.
 
 ---
 
@@ -130,7 +136,7 @@ Le keyword ti dicono come i tuoi utenti cercano soluzioni ai loro problemi — e
 
 **Test di carico:** verifica che il sito regga 1.000 visitatori simultanei. Il giorno del lancio potrebbero arrivare in pochi minuti. Strumento gratuito: [loader.io](https://loader.io) (piano free fino a 10.000 client).
 
-> ✏️ **CHECKPOINT 3:** Fai il test dei 10 secondi con almeno 3 persone. Se nemmeno una riesce a rispondere correttamente, fermati e riscrivi titolo e sottotitolo prima di procedere. Non ha senso preparare materiali di lancio se il sito non converte.
+> ✏️ **CHECKPOINT 3 — BLOCCO OBBLIGATORIO:** Chiedi all'utente di descrivere il risultato del test dei 10 secondi: quante persone hanno risposto correttamente? Cosa hanno detto? Se nessuna riesce a rispondere correttamente, non passare alla settimana successiva — guida la riscrittura del titolo in questa conversazione, usando la value proposition già approvata al Checkpoint 2 come punto di partenza.
 
 **Checklist Settimana 2:**
 - [ ] Titolo e sottotitolo testati con almeno 3 persone (Checkpoint 3 superato)
@@ -206,7 +212,7 @@ Il momento "wow" è la cosa che il tuo prodotto fa che sorprende le persone la p
 - **Logo in alta risoluzione:** PNG con sfondo trasparente, almeno 512×512px
 - **Content Package per KOL:** cartella Google Drive condivisibile con tutto (vedi sezione KOL qui sotto)
 
-> ✏️ **CHECKPOINT 4:** Guarda il tuo video finito con qualcuno che non conosce il prodotto. Dopo averlo visto, chiedi: "Cosa fa questo prodotto? Lo useresti?" Se non riesce a spiegarlo correttamente o risponde "forse", il video non sta comunicando bene. Identifica il punto dove si è perso e riscrivi quella sezione.
+> ✏️ **CHECKPOINT 4 — BLOCCO OBBLIGATORIO:** Chiedi all'utente di descrivere la reazione della persona al test. In particolare: a che secondo del video si è persa? Cosa non ha capito? Usa la risposta per identificare il punto esatto dello script che non funziona e proponi una riscrittura di quella singola sezione — non del video intero. Non procedere alla fase KOL finché il video supera il test.
 
 **Checklist Settimane 3–4:**
 - [ ] Momento "wow" identificato (Checkpoint implicito)
@@ -286,7 +292,7 @@ Non mandare solo "guarda il mio prodotto". Mandagli un pacchetto completo che ri
 
 > **Tempistica:** contatta le newsletter principali con almeno 6 settimane di anticipo — i loro slot si riempiono. Per i creator su X o LinkedIn, 2-3 settimane sono sufficienti.
 
-> ✏️ **CHECKPOINT 5:** Hai già 5 persone confermate che pubblicheranno qualcosa il giorno del lancio? Non "forse" — confermate. Se la risposta è no, questa è la tua priorità assoluta questa settimana.
+> ✏️ **CHECKPOINT 5 — BLOCCO OBBLIGATORIO:** Chiedi all'utente quante conferme ha ricevuto finora, con nome/canale per ognuna. "Confermato" significa: ha risposto "sì, ci sarò" in modo esplicito — non "mi interessa" o "fammici pensare". Se ha meno di 5 conferme, non passare alla fase tecnica: lavora insieme all'utente per identificare le prossime 3-5 persone da contattare e scrivi il DM personalizzato per ognuna.
 
 **Checklist Settimane 4–5:**
 - [ ] Lista di 15–20 KOL potenziali identificati
@@ -317,7 +323,7 @@ Non mandare solo "guarda il mio prodotto". Mandagli un pacchetto completo che ri
 - Se hai già utenti beta, mandagli una email personale (non broadcast): chiedi se vogliono supportare il lancio su PH e spiega come farlo in 2 minuti.
 - Crea un Google Form semplice: "Lanciamo su PH il [data] — vuoi essere avvisato?" — condividilo nella community e nelle ultime settimane di preparazione.
 
-> ✏️ **CHECKPOINT FINALE (L-1):** Prima di lanciare, verifica di poter rispondere "sì" a tutte queste domande:
+> ✏️ **CHECKPOINT FINALE (L-1) — BLOCCO OBBLIGATORIO:** Chiedi all'utente di rispondere alle 5 domande una per una. Per ogni "no" o risposta incerta, non passare avanti: identifica insieme l'azione minima che trasforma quel "no" in "sì" entro 24-48 ore. Se rimangono 2 o più "no" dopo questa verifica, proponi esplicitamente di posticipare di 1 settimana — con la motivazione concreta per ogni punto mancante.
 > - Sai esattamente chi è il tuo ICP e dove trovarlo online?
 > - Il sito converte al >10% in test con persone reali?
 > - Il Launch Video ha un momento "wow" chiaro e dura meno di 90 secondi?

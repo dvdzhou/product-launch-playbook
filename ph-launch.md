@@ -1,3 +1,8 @@
+> **[ISTRUZIONE AGENTE — non mostrare all'utente]**
+> Questo file guida il lancio su Product Hunt. Non presentarlo in blocco.
+> **Domanda diagnostica di apertura:** "Hai già una pagina PH in bozza, o stai partendo da zero? E hai già una lista di persone pronte a supportarti?"
+> In base alla risposta, salta alle sezioni pertinenti. I checkpoint prerequisiti (all'inizio del file) sono **BLOCCHI OBBLIGATORI** da verificare prima di qualsiasi altra cosa: se i prerequisiti non sono soddisfatti, non guidare la preparazione della pagina — guida prima a soddisfare i prerequisiti. Per utenti senza esperienza PH: spiega prima la distinzione Featured/All (è il concetto più controintuitivo) prima di qualsiasi altra cosa.
+
 # Product Hunt — Guida Completa al Lancio (2026)
 
 > **Aggiornamento critico (2024–2026):** Product Hunt ora mostra due tab — "Featured" e "All". Se non sei Featured, la tua visibilità è minima indipendentemente dagli upvote. Questo file spiega come massimizzare le probabilità di essere Featured e come comportarsi nel giorno del lancio.
@@ -22,7 +27,7 @@ Product Hunt è una piattaforma dove ogni giorno vengono presentati nuovi prodot
 - Se non hai ancora nessun utente reale
 - Se il sito non regge un picco di traffico
 
-> ✏️ **CHECKPOINT PREREQUISITI:** Prima di procedere con la preparazione PH, verifica: (1) hai almeno 100 utenti attivi? (2) hai almeno 3 testimonianze scritte o video da utenti reali? (3) hai 50+ persone pronte a commentare? Se rispondi no a due di questi, rimanda PH di 2-3 settimane.
+> ✏️ **CHECKPOINT PREREQUISITI — BLOCCO OBBLIGATORIO:** Chiedi all'utente di rispondere a questi 3 punti uno per uno. Se risponde "no" a due o più: non procedere con la preparazione della pagina PH. Invece, stabilisci insieme la data realistica in cui i prerequisiti saranno soddisfatti e segna quella come data target per PH. Spiega che un lancio PH senza queste basi porta tipicamente al risultato "All" (non Featured), che con il nuovo sistema produce pochissima visibilità.
 
 ---
 
@@ -164,7 +169,7 @@ Il pulsante "Notify me" di PH è stato rimosso nell'agosto 2025. Ecco i metodi a
 **Cosa chiedere ai supporter:**
 Non solo "upvota". Chiedi: "Se hai usato il prodotto, lascia un commento su PH con la tua esperienza specifica — anche solo 2-3 righe. Un commento di qualità conta molto più di un upvote per il nostro ranking."
 
-> ✏️ **CHECKPOINT PRE-LANCIO:** Hai una lista di almeno 50 persone confermate che ti hanno detto "ci sarò"? Queste persone hanno account PH con almeno 7 giorni di anzianità? Se non sei sicuro del secondo punto, chiedi ai tuoi supporter di verificare — un account nuovo creato il giorno prima non conta nell'algoritmo.
+> ✏️ **CHECKPOINT PRE-LANCIO — BLOCCO OBBLIGATORIO:** Chiedi all'utente di condividere il numero di persone nella lista e di confermare che ha verificato l'anzianità degli account. Se non ha verificato: guida la verifica insieme — manda un messaggio tipo ai supporter che li istruisce a controllare il loro profilo PH e ad aggiungere qualche upvote su altri prodotti nei giorni precedenti, se l'account è troppo nuovo.
 
 ---
 

@@ -1,3 +1,9 @@
+> **[ISTRUZIONE AGENTE — non mostrare all'utente]**
+> Questo file spiega i principi strategici del lancio. Non presentarlo come lettura sequenziale.
+> **Domanda diagnostica di apertura:** "Hai già un'idea di quali canali usare per il lancio, o stai ancora decidendo da dove partire?"
+> Se l'utente non ha ancora una strategia: presenta i 4 meccanismi uno alla volta, con la sezione "Cosa fai tu" come output obbligatorio per ciascuno prima di passare al successivo. Se l'utente ha già una strategia: usa le domande diagnostiche in fondo al file come checklist di verifica — non spiegare da zero i meccanismi che già conosce.
+> **Attenzione particolare al Meccanismo 2:** è il più ricco di insight ma il più astratto. Dopo averlo presentato, poni sempre la domanda operativa: "Qual è la tensione attiva nel tuo settore in questo momento?" e lavora con l'utente sulla risposta concreta prima di procedere.
+
 # Strategia di Lancio: Meccanismi, Esempi Reali, e Cosa Fare Tu
 
 > **Obiettivo di questo file:** darti i principi strategici che ricorrono in tutti i lanci di successo, trasformati in regole e azioni concrete. Ogni sezione "teorica" ha una sezione "cosa fai tu" separata e specifica.
@@ -26,6 +32,15 @@ Questi meccanismi ricorrono in tutti i lanci che hanno raggiunto un pubblico amp
 
 3. **Assicurati che sia replicabile:** l'utente che vede il video deve poter arrivare al tuo sito, registrarsi, e vedere la stessa cosa con i propri dati in meno di 5 minuti. Ogni ostacolo in questo percorso riduce il potenziale virale.
 
+**Checklist operativa per il Meccanismo 1:**
+
+| Quando | Azione concreta |
+|:---|:---|
+| L-5 settimane | Fai girare il prodotto a 3 persone esterne per 5 minuti ciascuna mentre registri lo schermo: esiste un momento in cui rallentano o sorridono? |
+| L-4 settimane | Quel momento deve essere nei primi 15 secondi del Launch Video — se è dopo il minuto, ritaglia |
+| L-2 settimane | Testa il percorso completo: video → sito → registrazione → momento wow. Cronometra ogni passaggio. Obiettivo: sotto 5 minuti totali |
+| Giorno del lancio | Verifica che il momento wow funzioni con il traffico reale — testa tu stesso prima di pubblicare |
+
 > **Se non trovi un momento "wow" in 5 minuti di utilizzo:** il problema non è il marketing — è il prodotto. Il marketing può amplificare, ma non può creare qualcosa che non esiste.
 
 ---
@@ -46,11 +61,38 @@ Prima del lancio, identifica la domanda che agita la tua community in questo mom
 
 Il tuo prodotto risponde a questa domanda? Se sì, usala come contesto nei tuoi materiali ufficiali — non come risposta definitiva, ma come punto di partenza.
 
+**Esempio prima/dopo — come si traduce in pratica:**
+
+❌ **Prima (generico — non agancia la tensione):**
+> "Lanciamo [Prodotto]: lo strumento AI per la documentazione API. Veloce, semplice, professionale."
+
+✅ **Dopo (aggancia la tensione del settore):**
+> "Tutti dicono che la documentazione API si può automatizzare. Nessuno mostra come farlo senza perdere 3 ore di configurazione. Abbiamo costruito [Prodotto] esattamente per questo."
+
+La differenza: il secondo post invita chi ha già sentito quella frustrazione a rispondere "finalmente" oppure "anch'io" — ed è quella risposta che genera la narrativa, non il tuo annuncio.
+
 **Azione 2 — Scrivi il Maker Comment su PH con una domanda aperta:**
 Non concludere il Maker Comment con "fateci sapere cosa ne pensate" (troppo vago). Concludi con una domanda specifica che invita a rispondere: "Siamo particolarmente curiosi di sapere: come gestite oggi [problema specifico che il vostro prodotto risolve]?" I commenti che riceverai diranno molto su come la community inquadra il vostro prodotto.
 
 **Azione 3 — Lascia una tensione irrisolta nei tuoi post:**
 Un thread su X che finisce con "ecco tutto quello che c'è da sapere" non invita commenti. Un thread che finisce con "ma c'è ancora un problema irrisolto: [X]" genera discussione. La discussione è la narrativa che si costruisce da sola.
+
+**Esempio prima/dopo — come finire un thread:**
+
+❌ **Prima (chiude tutto — nessun motivo per commentare):**
+> "Con [Prodotto] puoi generare la documentazione in 2 minuti. Provalo gratis: [link]"
+
+✅ **Dopo (lascia una tensione aperta):**
+> "Con [Prodotto] la parte meccanica è risolta. Il problema che ancora non abbiamo risolto: i developer che non aggiornano mai la doc anche quando il tool lo renderebbe facile. Qualcuno ha trovato un modo per affrontarlo?"
+
+**Checklist operativa per il Meccanismo 2** — da completare nelle settimane di preparazione:
+
+| Quando | Azione concreta |
+|:---|:---|
+| L-4 settimane | Identifica la tensione principale nel tuo settore: scrivi in una frase la domanda che divide la community in questo momento |
+| L-3 settimane | Rivedi i materiali principali (tagline, Maker Comment, tweet di lancio): ognuno fa riferimento esplicito a quella tensione? |
+| L-1 settimana | Prepara 2-3 finali di thread alternativi con tensione aperta — testane uno nelle community Discord/Reddit per vedere quale genera più discussione |
+| Giorno del lancio | Concludi il Maker Comment PH con la domanda specifica già testata |
 
 **Segnale di allarme:** se stai scrivendo tu la narrativa del tuo lancio (es. "questo è il momento di X per l'Europa"), potrebbe non funzionare come pensi. Le narrative più forti arrivano quando altre persone — non il team — le formulano per prime. Il tuo lavoro è creare le condizioni, non il copione.
 
@@ -80,6 +122,16 @@ Non hai bisogno di molte persone. Hai bisogno delle persone giuste, contattate n
 3. **Fai il primo contatto con un angolo specifico.** Non "voglio farti vedere il mio prodotto". Invece: "Ho letto la tua analisi su [X] — ho costruito qualcosa che risponde esattamente a quella domanda. Posso mostrartelo in 10 minuti?"
 
 4. **Offri prima, chiedi dopo.** Prima di chiedere un tweet, chiedi un feedback. Il feedback genera conversazione, la conversazione genera fiducia, la fiducia genera un endorsement autentico.
+
+**Checklist operativa per il Meccanismo 3:**
+
+| Quando | Azione concreta |
+|:---|:---|
+| L-6 settimane | Identifica 10 persone Tier 1-2: scrivi nome, perché sono credibili nel tuo settore, e come le conosci (o non le conosci) |
+| L-5 settimane | Per chi non conosci: inizia a interagire con i loro contenuti — commenti di valore, non "ottimo post" |
+| L-4 settimane | Primo contatto con le persone Tier 1: non chiedi nulla, offri accesso anticipato e chiedi feedback su un aspetto specifico |
+| L-3 settimane | Follow-up con chi ha risposto: ora puoi chiedere se sono disponibili per il giorno del lancio |
+| L-1 settimana | Conferma data e orario con ogni KOL Tier 1-2. Manda il Content Package completo |
 
 ---
 
@@ -112,6 +164,18 @@ Product Hunt: dopo Launch Week, con utenti reali e testimonianze già raccolte
 
 **Errore più comune:** lanciare tutto il giorno 1. Se pubblichi su tutti i canali nello stesso giorno senza aver costruito nessuna base, non hai un lancio — hai un annuncio generico che scompare in 24 ore.
 
+**Checklist operativa per il Meccanismo 4:**
+
+| Quando | Canale | Azione |
+|:---|:---|:---|
+| L-3 settimane | Discord/Telegram | Community attiva: pubblica aggiornamenti, raccogli feedback, costruisci anticipazione |
+| L-1 settimana | X/Twitter | 1-2 teaser senza svelare il prodotto — crea aspettativa |
+| **Giorno 1** | X/Twitter + community | Tweet principale + video. Solo questi due canali — nessun altro |
+| **Giorni 1-3** | X/Twitter | Rispondi a ogni commento. Fai girare il momento wow |
+| **Giorni 3-7** | YouTube + blog | Tutorial approfonditi, blog post ottimizzato SEO |
+| **Giorni 7-14** | Reddit + HN | Solo dopo aver una base di commenti e prova sociale su X |
+| **Settimana 2+** | Product Hunt | Solo dopo Launch Week completata e testimonianze raccolte |
+
 ---
 
 ## Lanci di riferimento: principi distillati
@@ -140,7 +204,7 @@ Product Hunt: dopo Launch Week, con utenti reali e testimonianze già raccolte
 
 ## Domande diagnostiche: valuta la tua strategia prima di muovere risorse
 
-Rispondi onestamente a queste domande prima di spendere un euro o un'ora di lavoro:
+> **[ISTRUZIONE AGENTE]** Usa questa sezione come BLOCCO OBBLIGATORIO prima di passare ai file operativi. Poni le domande una alla volta, aspetta la risposta, e per ogni "no" o risposta vaga identifica l'azione minima da completare prima di procedere. Non passare a `preparation.md` se le domande 1 e 2 non hanno risposta soddisfacente — sono la fondamenta di tutto il resto.
 
 **1. Sai chi è il tuo ICP in modo preciso?**
 Non "developer" — ma "developer backend freelance, 25-35 anni, usa Python, lavora per startup da 2-10 persone, odia la documentazione". Se non sei a questo livello di specificità, torna a `preparation.md` Settimana 1.

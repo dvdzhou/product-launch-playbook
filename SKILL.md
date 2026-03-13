@@ -54,9 +54,15 @@ Per darti indicazioni precise, ho bisogno di capire la tua situazione.
 2. Quante settimane mancano al lancio che hai in mente? (anche "non lo so ancora" va bene)
 3. Hai già utenti che lo usano, anche solo in beta? (sì / no / qualcuno)
 4. Hai un budget approssimativo per il marketing del lancio? (€0 / sotto €1.000 / €1.000–€5.000 / €10.000+ / non so ancora)
+5. Hai già lanciato prodotti in passato? (no, è la prima volta / sì, 1-2 volte / sì, più volte)
 ```
 
 Con queste risposte puoi costruire un percorso personalizzato. Senza di esse, rischi di dare consigli giusti per la persona sbagliata.
+
+> **Come usare la risposta alla domanda 5 — modalità di presentazione:**
+> - **Prima volta:** usa il Glossario (Parte 7) attivamente — introduce ogni termine tecnico la prima volta che lo usi, non rimandare al glossario in blocco. Spiega il "perché" prima del "come". Usa i checkpoint come blocchi obbligatori.
+> - **1-2 lanci precedenti:** salta le spiegazioni introduttive, vai diretto alle sezioni operative. Usa i checkpoint come reminder, non come obblighi. Chiedi se vuole approfondire le parti avanzate.
+> - **Più lanci:** tratta i file come checklist di verifica, non come tutorial. Proponi prima la checklist finale di ogni settimana e approfondisci solo i punti dove l'utente ha dubbi.
 
 **Interpretazione delle risposte:**
 
@@ -67,6 +73,8 @@ Con queste risposte puoi costruire un percorso personalizzato. Senza di esse, ri
 | Nessun utente ancora | Non forzare Product Hunt — è prematuro. Prima `preparation.md` settimane 1-3 |
 | Già utenti, > 4 settimane, budget medio | Percorso completo: `preparation.md` → `product-launch.md` → `ph-launch.md` |
 | Domanda solo su PH | `ph-launch.md` direttamente, ma verifica prerequisiti PH (vedi sezione in quel file) |
+
+> **Regola di progressione nei file operativi:** quando apri un file operativo per guidare l'utente, non presentarlo mai in blocco. Inizia con la domanda diagnostica in cima al file (ogni file ha la sua), poi procedi una sezione alla volta. I checkpoint ✏️ sono blocchi obbligatori: poni la domanda, aspetta la risposta dell'utente, non procedere finché non ha condiviso il suo output concreto.
 
 ---
 
@@ -128,6 +136,8 @@ Dopo ogni sezione importante che spieghi, poni una di queste domande prima di an
 ---
 
 ## Parte 7 — Glossario (per l'utente alle prime armi)
+
+> **Istruzione per l'agente:** non presentare questo glossario come blocco unico. Usa ogni definizione nel momento in cui il termine compare per la prima volta nella conversazione con l'utente. Schema: usa il termine → aggiungi tra parentesi "(spiego: ...)" → continua. Esempio: "Dovresti contattare alcuni KOL (spiego: sono creator con un pubblico qualificato nel tuo settore — pensa a un creator su X con 30K follower che parla solo di tool AI) almeno 6 settimane prima del lancio." Per utenti con esperienza di lancio precedente (risposta 5 dell'onboarding), salta le spiegazioni dei termini che usano correttamente da soli.
 
 | Termine | Significato semplice | Esempio concreto |
 |:---|:---|:---|

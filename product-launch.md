@@ -1,3 +1,8 @@
+> **[ISTRUZIONE AGENTE — non mostrare all'utente]**
+> Questo file copre i 5 giorni della Launch Week. Non presentarlo in blocco.
+> **Domanda diagnostica di apertura:** "Siamo al lancio — a che giorno sei? Stai pianificando in anticipo o sei nel mezzo della settimana?"
+> Mostra solo il giorno corrente o quello successivo. Ogni checkpoint giornaliero è un **BLOCCO OBBLIGATORIO**: prima di passare al giorno successivo, chiedi all'utente di confermare la checklist del giorno e di condividere i numeri reali (commenti ricevuti, KOL pubblicati, ecc.). Se i numeri sono sotto le soglie, suggerisci l'azione correttiva specifica indicata nella sezione "Gestione delle crisi" prima di procedere.
+
 # Launch Week: Piano Operativo Giorno per Giorno
 
 > **Cosa trovi qui:** il piano dettagliato per i 5 giorni di lancio ufficiale. Ogni giorno ha un obiettivo preciso, azioni in ordine, una checklist, e un checkpoint di verifica.
@@ -51,7 +56,7 @@ Mandagli un DM diretto (X o WhatsApp se li conosci): "Siamo live — riesci a ma
 **Engagement basso nelle prime 4 ore:**
 Non farti prendere dal panico. Azione concreta: rispondi personalmente a ogni commento che hai ricevuto — anche se sono 3. Poi manda 10 DM a persone del tuo ICP che conosci: "Ho appena lanciato qualcosa che potrebbe interessarti — dai un'occhiata quando puoi."
 
-> ✏️ **CHECKPOINT Giorno 1 (sera):** Hai ricevuto almeno 10 commenti reali (non emoji) e 3 domande specifiche sul prodotto? Questi sono i segnali che il lancio sta funzionando. Se hai solo like e nessun commento, il problema è spesso il tweet principale: manca una domanda o una provocazione che inviti a rispondere.
+> ✏️ **CHECKPOINT Giorno 1 — BLOCCO OBBLIGATORIO:** Chiedi all'utente quanti commenti reali (non emoji) ha ricevuto e quante domande specifiche sul prodotto. Se ha meno di 10 commenti: chiedi di condividere il tweet principale — il problema è quasi sempre lì. Analizzalo insieme: c'è una domanda o una provocazione che inviti a rispondere? Se no, proponi una riscrittura dell'ultima riga del tweet prima di passare al Giorno 2.
 
 **Checklist Giorno 1:**
 - [ ] Tweet principale con video pubblicato
@@ -87,7 +92,7 @@ Se hai raccolto email, mandane una alle 9:00 AM PST. Oggetto semplice: "Come ini
 
 > **Perché "rispondimi direttamente":** le email con risposta diretta abilitata ricevono più aperture e più risposte. I feedback che riceverai oggi sono oro — usali per migliorare il prodotto e per capire cosa non è chiaro nel tutorial.
 
-> ✏️ **CHECKPOINT Giorno 2:** Quante persone hanno completato il tutorial o hanno scritto chiedendo aiuto? Se ricevi molte domande sullo stesso passaggio, quel passaggio è da riscrivere o semplificare prima del lancio PH.
+> ✏️ **CHECKPOINT Giorno 2 — BLOCCO OBBLIGATORIO:** Chiedi quante persone hanno iniziato il tutorial e quante domande sono arrivate. Se arrivano molte domande sullo stesso passaggio: quel passaggio è da riscrivere. Fallo qui, insieme, prima del Giorno 3 — un tutorial chiaro oggi riduce il supporto dei prossimi giorni e aumenta la qualità dei commenti su PH la settimana successiva.
 
 **Checklist Giorno 2:**
 - [ ] Tutorial pubblicato (YouTube o thread X)
@@ -113,7 +118,7 @@ Articolo di 800-1.200 parole con lo stesso contenuto del thread, ottimizzato per
 **KOL verticals:**
 Oggi è il momento per i KOL con profilo più tecnico o specializzato. Un esperto del settore che analizza la tua feature pesa di più di un generalist.
 
-> ✏️ **CHECKPOINT Giorno 3:** Il thread o il blog post ha ricevuto commenti con domande tecniche specifiche? Queste domande sono preziose: spesso rivelano confusione su come funziona la feature e ti danno materiale per le FAQ del sito.
+> ✏️ **CHECKPOINT Giorno 3 — BLOCCO OBBLIGATORIO:** Chiedi se il thread o il blog post ha ricevuto domande tecniche specifiche. Se sì: queste domande sono oro — usale adesso per scrivere 2-3 FAQ da aggiungere al sito prima del lancio PH. Se non ha ricevuto domande tecniche, il contenuto era probabilmente troppo generico: proponi insieme un angolo più specifico per il post del Giorno 4.
 
 **Checklist Giorno 3:**
 - [ ] Thread su X pubblicato sulla feature #1
@@ -130,7 +135,7 @@ Oggi è il momento per i KOL con profilo più tecnico o specializzato. Un espert
 **In aggiunta — se hai già raccolto casi d'uso reali:**
 Un thread "5 modi creativi in cui i nostri utenti stanno usando [prodotto]" ottiene tipicamente più engagement di qualsiasi contenuto puramente tecnico. Le persone si riconoscono nei casi d'uso degli altri e condividono.
 
-> ✏️ **CHECKPOINT Giorno 4:** Hai almeno 3 feedback positivi scritti da utenti reali che puoi usare come testimonianze? Se non li hai, oggi è il giorno di chiedere — manda un messaggio diretto ai 5-10 utenti più attivi.
+> ✏️ **CHECKPOINT Giorno 4 — BLOCCO OBBLIGATORIO:** Chiedi di condividere le 3 testimonianze raccolte — testo, non solo "sì le ho". Valutale insieme: contengono un use case specifico e un risultato misurabile? Una testimonianza vaga come "ottimo prodotto!" non funziona su PH. Se ne mancano o sono deboli, scrivi insieme il messaggio da mandare agli utenti più attivi per raccoglierle oggi.
 
 **Checklist Giorno 4:**
 - [ ] Thread o blog post sulla feature #2
@@ -165,7 +170,7 @@ Contenuto (sii onesto, non solo positivo):
 
 Stessa struttura del recap, tono più personale. Ringrazia chi si è registrato, chiedi un feedback specifico su una cosa, annuncia PH con istruzioni chiare su come supportare.
 
-> ✏️ **CHECKPOINT FINE LAUNCH WEEK:** Prima di lanciare su PH la settimana successiva, verifica:
+> ✏️ **CHECKPOINT FINE LAUNCH WEEK — BLOCCO OBBLIGATORIO:** Vai punto per punto con l'utente. Per ogni "no" o "non ancora": (1) stabilisci insieme la data entro cui risolverlo, (2) identifica l'azione minima per raggiungerlo. Se mancano 2 o più punti, proponi esplicitamente di posticipare PH di 1-2 settimane — con la spiegazione concreta di cosa si guadagna aspettando.
 > - Hai 50+ persone confermate pronte a commentare su PH (non solo upvotare)?
 > - Hai almeno 3 testimonianze scritte/video da utenti reali?
 > - Hai identificato i 2-3 problemi più segnalati e li hai risolti (o comunicato quando li risolverai)?

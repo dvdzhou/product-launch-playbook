@@ -1,3 +1,9 @@
+> **[ISTRUZIONE AGENTE — non mostrare all'utente]**
+> Questo file elenca oltre 30 strumenti divisi per fase. Non elencarli tutti — è il modo più rapido per sopraffare un utente.
+> **Domanda diagnostica di apertura:** "In quale fase sei adesso? Ricerca, creazione materiali, outreach KOL, lancio, o analisi dei risultati?"
+> Mostra solo la sezione della fase corrente. Per utenti al primo lancio (risposta 5 onboarding): inizia sempre dallo Stack Minimo in fondo al file — è il punto di partenza corretto. Aggiungi strumenti solo se l'utente ha un problema specifico che lo stack minimo non risolve.
+> **Segnale di allarme:** se l'utente vuole installare più di 3-4 strumenti nuovi in una settimana, fermalo. Il tempo di setup supera il valore. Consiglia di completare la fase corrente con gli strumenti già attivi prima di aggiungerne altri.
+
 # Toolbox — Strumenti per il Lancio
 
 > **Come usare questo file:** gli strumenti sono organizzati per fase del lancio. Non devi usarli tutti — usa solo quelli che risolvono un problema che hai adesso. In fondo al file trovi lo stack minimo consigliato per un lancio con budget zero.

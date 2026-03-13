@@ -1,3 +1,13 @@
+> **[ISTRUZIONE AGENTE — non mostrare all'utente]**
+> Questo file copre 4 scenari di budget molto diversi tra loro. Non presentarli tutti.
+> **Domanda diagnostica di apertura:** già raccolta nell'onboarding (domanda 4). Vai direttamente allo scenario corrispondente senza mostrare gli altri.
+> - €0 → Scenario 0
+> - Sotto €1.000 → Scenario 1 (fascia bassa)
+> - €1.000–€5.000 → Scenario 1
+> - €10.000+ → Scenario 2 o 3 in base alla cifra precisa
+> - "Non so ancora" → mostra prima i Principi anti-spreco in fondo al file, poi chiedi di stimare un range realistico prima di procedere con lo scenario.
+> Per tutti gli scenari: inizia dalle voci su cui NON spendere — è la parte con il maggiore impatto immediato per chi ha poca esperienza.
+
 # Budget per il Lancio: Allocazione Pratica
 
 > **Prima di tutto:** il budget non determina il successo del lancio. Lo determinano la qualità del prodotto, la precisione del targeting, e la credibilità di chi lo supporta. Questo file ti aiuta a non sprecare quello che hai.

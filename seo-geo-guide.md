@@ -1,3 +1,10 @@
+> **[ISTRUZIONE AGENTE — non mostrare all'utente]**
+> Questo è il file tecnicamente più denso della skill. Non presentarlo in blocco — è intimidatorio per chi non ha esperienza tecnica e inutilmente dettagliato per chi ce l'ha.
+> **Domanda diagnostica di apertura:** "Hai un developer nel team, o gestisci il lato tecnico del sito da solo?"
+> - Se **ha un developer**: mostra il Calendario Azioni SEO in fondo al file come lista di istruzioni da delegare. Per ogni azione, spiega solo "cosa deve fare" — non come funziona tecnicamente.
+> - Se **gestisce da solo ma ha familiarità tecnica**: procedi sezione per sezione con le istruzioni complete.
+> - Se **non è tecnico**: inizia dalla box "Se non sei developer" che precede ogni sezione tecnica. Mostra solo quelle azioni. Per tutto il resto, spiega che serve un developer o un'agenzia per 1-2 ore di lavoro.
+
 # SEO e GEO: Traffico Organico dal Lancio in Poi
 
 > **Cosa trovi qui:** come fare in modo che il lavoro del lancio continui a portare traffico per mesi, sia sui motori di ricerca tradizionali (Google, Bing) che su quelli AI (ChatGPT via Bing, Perplexity, Claude).
@@ -22,6 +29,15 @@ La maggior parte dei lanci produce contenuto in una settimana e poi il traffico 
 ---
 
 ## Checklist tecnica del sito (L-4 settimane)
+
+> **Se non sei developer — cosa puoi fare tu direttamente:**
+> 1. **HTTPS**: controlla se c'è il lucchetto verde nel browser. Se non c'è, vai nel pannello del tuo hosting (Vercel, Netlify, Webflow, ecc.) — di solito c'è un pulsante "Enable HTTPS" o "Force SSL". È gratuito e richiede 2 minuti.
+> 2. **Mobile-friendly**: apri il sito dal tuo telefono e verifica che si legga bene. Nessun codice necessario.
+> 3. **Sitemap**: se usi Webflow, WordPress, Framer o Squarespace, la sitemap viene generata automaticamente. Verifica aprendo `tuosito.com/sitemap.xml` nel browser.
+> 4. **Google Search Console**: puoi configurarla tu in 15 minuti seguendo le istruzioni di Google — non richiede codice, solo accesso DNS o Google Tag Manager.
+> 5. **Titolo, meta description, H1**: su tutti i CMS moderni si modificano dai settings della pagina, senza toccare il codice.
+>
+> **Cosa invece richiede un developer (1-2 ore di lavoro):** Core Web Vitals se il sito è lento, IndexNow se non usi un CMS con plugin, Schema JSON da aggiungere nell'header, test di carico con loader.io.
 
 ### Basi tecniche
 
@@ -60,6 +76,8 @@ La maggior parte dei lanci produce contenuto in una settimana e poi il traffico 
 ---
 
 ## IndexNow — per Bing, Yandex e motori AI (non per Google)
+
+> **Se non sei developer:** usa il Modo 2 (Bing Webmaster Tools, senza terminale) o installa il plugin CMS se sei su WordPress. Il Modo 1 con terminale è più veloce ma non è necessario — puoi fare tutto dal pannello web. Se usi Webflow, Framer o Squarespace, controlla se esiste un'integrazione diretta nelle impostazioni SEO del CMS prima di contattare il developer.
 
 **Cos'è IndexNow (spiegazione semplice):** normalmente i motori di ricerca scoprono le nuove pagine girando il web ogni qualche giorno o settimana. IndexNow è un protocollo che ti permette di dire loro "ho appena pubblicato questa pagina, vieni a vederla adesso". La risposta è molto più rapida — spesso entro minuti.
 
@@ -175,6 +193,8 @@ CTA finale: link al prodotto + link alla pagina PH (se applicabile)
 ---
 
 ## GEO — come farti citare dai motori di ricerca AI
+
+> **Se non sei developer:** le Azioni 1 e 3 (Schema JSON) richiedono di aggiungere codice nell'`<head>` della pagina — delegale. L'Azione 2 (robots.txt) su Webflow, WordPress e Framer è gestibile da pannello senza codice: cerca "robots.txt" nelle impostazioni SEO del tuo CMS. Concentra le tue energie dirette sulla struttura dei contenuti: titoli chiari, sezioni FAQ con domande e risposte complete, descrizioni che iniziano con "X è uno strumento che..." — questo è il 70% dell'impatto GEO e non richiede competenze tecniche.
 
 **Cos'è la GEO (Generative Engine Optimization):** quando qualcuno chiede a ChatGPT "qual è il miglior tool per documentazione API?", ChatGPT cita fonti che ha nel suo indice. GEO è l'insieme di tecniche per diventare una di quelle fonti.
 

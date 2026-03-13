@@ -1,168 +1,193 @@
 # Launch Week: Piano Operativo Giorno per Giorno
 
-> **Cosa trovi qui:** il piano dettagliato per i 5 giorni di lancio ufficiale del prodotto. Ogni giorno ha un obiettivo preciso, azioni concrete e una checklist.
-
-> **Prima di iniziare la Launch Week:** assicurati di aver completato almeno le settimane L-3 e L-2 di `preparation.md`. Se non hai i materiali pronti (video, content package per KOL, canali social attivi), il lancio sarà molto meno efficace.
+> **Cosa trovi qui:** il piano dettagliato per i 5 giorni di lancio ufficiale. Ogni giorno ha un obiettivo preciso, azioni in ordine, una checklist, e un checkpoint di verifica.
+>
+> **Prima di iniziare la Launch Week:** devi aver completato almeno le Settimane 3-4 di `preparation.md` (video pronto, Content Package per KOL, canali social attivi). Se non hai questi materiali, il lancio sarà molto meno efficace.
 
 ---
 
-## Logica della Launch Week
+## Perché 5 giorni e non 1
 
-La settimana di lancio segue una progressione precisa:
+Un errore comune è "sparare tutto" il Giorno 1. Il problema: la maggior parte dei canali social premia i contenuti freschi e le conversazioni attive, non gli annunci singoli. Se dici tutto il Giorno 1, non hai più motivi per le persone di tornare nei giorni successivi — e i media e i KOL che arrivano in ritardo non hanno nulla di nuovo su cui fare un pezzo.
 
-```
-Giorno 1 (lunedì): Massima visibilità — raggiungi il maggior numero di persone
-Giorno 2 (martedì): Attivazione — aiuta i nuovi utenti a partire
-Giorno 3 (mercoledì): Feature principale 1 — approfondisci per chi è già coinvolto
-Giorno 4 (giovedì): Feature principale 2 — mantieni il momentum
-Giorno 5 (venerdì): Community e annuncio PH — chiudi il cerchio, annuncia il passo successivo
-```
-
-**Perché questa progressione?** I lanci che esauriscono tutto il giorno 1 non riescono a mantenere l'interesse. La struttura a tema crea un motivo per tornare ogni giorno — e favorisce la copertura progressiva sui media e nei thread.
+La struttura a tema crea un motivo per tornare ogni giorno:
+- Giorno 1: chi sei e cosa fai (massima visibilità)
+- Giorno 2: come iniziare (attivazione dei nuovi utenti)
+- Giorno 3: feature principale #1 (approfondimento per chi è già coinvolto)
+- Giorno 4: feature principale #2 (mantieni il momentum)
+- Giorno 5: community + annuncio PH (chiudi il cerchio)
 
 ---
 
 ## Giorno 1 (lunedì) — Annuncio principale
 
-**Obiettivo:** massima visibilità iniziale. Questo è il momento più importante della settimana — tutto deve essere pronto prima di pubblicare il primo tweet.
+**Obiettivo:** massima visibilità iniziale. Questo è il momento più importante della settimana.
 
-**Orario consigliato di apertura:** 9:00–10:00 AM PST (ora del Pacifico) — corrisponde a quando il pubblico tech americano è sveglio e attivo su X.
+**Orario consigliato:** 9:00–10:00 AM PST (per il pubblico tech americano su X). Se il tuo ICP è prevalentemente europeo, considera le 9:00 CET.
+
+> ⚠️ **Regola del "tutto pronto prima di pubblicare":** il tweet principale deve andare live solo quando hai verificato che: il sito è operativo, il video è caricato, i KOL Tier 1 sono pronti a pubblicare nelle successive 2 ore. Non pubblicare e poi scoprire che qualcosa è rotto.
 
 ### Timeline delle azioni
 
 | Ora (PST) | Azione | Note |
 |:---|:---|:---|
-| 00:01 | Pubblica il tweet principale con il Launch Video | Il tweet va in forma di Thread (vedi template in `templates.md`) |
-| 00:01 | Annuncio su Discord/Telegram della community | Messaggio festoso, con link diretto e istruzioni per supportare |
-| 00:30 | Aggiorna il README su GitHub | Aggiungi il video, i link, lo stato "ora disponibile" |
+| 00:01 | Tweet principale con Launch Video (in forma di Thread) | Vedi template in `templates.md` |
+| 00:01 | Annuncio su Discord/Telegram | Messaggio con link diretto e istruzioni per supportare |
+| 00:30 | Aggiorna il README su GitHub | Aggiungi video, link, stato "ora disponibile" |
 | 09:00–12:00 | KOL Tier 1–2 pubblicano i loro contenuti | Conferma con loro l'orario la sera prima |
-| 11:00–13:00 | Post su Reddit (vedi lista subreddit in `preparation.md`) | Usa il template "Product launch" da `templates.md` |
-| 14:00–17:00 | Rispondi a ogni commento su X, PH, Reddit | Non lasciare nessuna domanda senza risposta nelle prime 24 ore |
-| 17:00–19:00 | KOL seconda ondata (time zone europee e asiatiche) | Coordina gli orari in anticipo |
-| Tutto il giorno | 20 UGC pieces pubblicati sui canali dei creator | Coordinate con i creator brand ambassador |
+| 11:00–13:00 | Post su Reddit (2-3 subreddit rilevanti) | Usa il template Reddit da `templates.md` |
+| Tutto il giorno | Rispondi a ogni commento su X, Reddit, Discord | Non lasciare nessuna domanda senza risposta nelle prime 24 ore |
+| 17:00–19:00 | KOL seconda ondata (time zone europee/asiatiche) | Coordina gli orari in anticipo |
 
-### Cosa fare se qualcosa va storto
+### Gestione delle crisi — cosa fare se qualcosa va storto
 
-**Il server va down nelle prime 2 ore:**
-Pubblica immediatamente su X: "Stiamo gestendo un picco di traffico inaspettato 🚀 Il sito torna online entro [stima]. Nel frattempo guarda il video qui: [link video YouTube diretto]." Non sparire. La comunicazione trasparente in una crisi costruisce fiducia.
+**Il sito va down nelle prime 2 ore:**
+Pubblica subito su X: "Stiamo gestendo un picco di traffico inaspettato — il sito torna online tra [stima realistica]. Nel frattempo, il video: [link YouTube diretto]."
+Non sparire. La comunicazione trasparente in una crisi costruisce più fiducia di un lancio perfetto.
 
 **Pochi KOL hanno pubblicato:**
-Mandagli un messaggio diretto (DM su X o WhatsApp se li conosci) con il link al tuo tweet principale e una richiesta semplice: "Riesci a mandare anche solo un retweet con un commento?" Non fare pressione, ma ricorda che è il giorno del lancio.
+Mandagli un DM diretto (X o WhatsApp se li conosci): "Siamo live — riesci a mandare anche solo un retweet con commento?" Non fare pressione, ma ricorda che è il giorno del lancio.
 
 **Engagement basso nelle prime 4 ore:**
-Non panicaare. Rispondi personalmente a ogni singolo commento che hai ricevuto — anche se sono 3. L'algoritmo di X premia le conversazioni vere. Poi manda 10 DM a persone del tuo ICP che conosci: "Ho appena lanciato qualcosa che potrebbe interessarti — dai un'occhiata quando puoi."
+Non farti prendere dal panico. Azione concreta: rispondi personalmente a ogni commento che hai ricevuto — anche se sono 3. Poi manda 10 DM a persone del tuo ICP che conosci: "Ho appena lanciato qualcosa che potrebbe interessarti — dai un'occhiata quando puoi."
 
-### Checklist Giorno 1
+> ✏️ **CHECKPOINT Giorno 1 (sera):** Hai ricevuto almeno 10 commenti reali (non emoji) e 3 domande specifiche sul prodotto? Questi sono i segnali che il lancio sta funzionando. Se hai solo like e nessun commento, il problema è spesso il tweet principale: manca una domanda o una provocazione che inviti a rispondere.
+
+**Checklist Giorno 1:**
 - [ ] Tweet principale con video pubblicato
 - [ ] Community Discord/Telegram notificata
 - [ ] GitHub README aggiornato
-- [ ] Reddit post pubblicati (almeno 3 subreddit)
+- [ ] Post Reddit pubblicati (almeno 2 subreddit)
 - [ ] KOL prima ondata ha pubblicato
-- [ ] Tutte le notifiche monitorate (X, Reddit, email, Discord)
-- [ ] Ogni commento a cui rispondere identificato e assegnato a un membro del team
+- [ ] Tutte le notifiche monitorate e gestite
 
 ---
 
 ## Giorno 2 (martedì) — Tutorial e attivazione
 
-**Obiettivo:** convertire i nuovi iscritti in utenti attivi. Molte persone si sono registrate ieri — aiutale a comprendere il prodotto prima che si dimentichino.
+**Obiettivo:** convertire i nuovi iscritti in utenti attivi.
 
-**Il problema che risolve questo giorno:** tipicamente, il 60–80% degli utenti che si registra il giorno del lancio non usa mai davvero il prodotto. Un buon tutorial pubblicato il giorno dopo riduce questo drop-off.
+**Il problema che questo giorno risolve:** tipicamente il 60-80% degli utenti che si registrano il giorno del lancio non usa mai davvero il prodotto. Si sono registrati per curiosità, poi la vita va avanti. Un tutorial pubblicato il giorno dopo — mentre il prodotto è ancora fresco nella loro mente — riduce questo abbandono.
 
 ### Cosa pubblicare
 
-**Tutorial principale (1 contenuto lungo):**
-Un video YouTube di 5–10 minuti oppure un thread X di 8–10 tweet che mostra passo per passo come fare la prima cosa utile con il tuo prodotto.
+**Tutorial principale (scegli uno):**
+- Video YouTube di 5-10 minuti: "Come fare la tua prima [cosa utile con il prodotto] in 5 minuti"
+- Thread X di 8-10 tweet: stesso contenuto in formato testo con screenshot
 
-**Struttura consigliata del tutorial:**
-1. "Ecco cosa realizzerai alla fine di questo tutorial" (mostra il risultato finale)
-2. Passo 1: come creare un account / configurare l'ambiente
-3. Passo 2–4: le azioni fondamentali per usare il prodotto
-4. "Errori comuni da evitare" (questa sezione riceve sempre molto engagement)
-5. "Passo successivo consigliato"
+**Struttura del tutorial (funziona per entrambi i formati):**
+1. "Alla fine di questo tutorial, avrai fatto [risultato concreto]" — mostra il risultato finale prima di tutto
+2. Passo 1: come registrarsi / configurare l'ambiente
+3. Passi 2-4: le azioni fondamentali per usare il prodotto
+4. "Errori comuni da evitare" — questa sezione riceve sempre molto engagement perché le persone si riconoscono
+5. "Il passo successivo consigliato"
 
-**Email agli iscritti del giorno 1:**
-Se hai raccolto email, mandane una alle 9:00 AM PST con oggetto semplice: "Come iniziare con [Nome prodotto] in 5 minuti". Includi il link al tutorial e un'offerta di supporto diretto.
+**Email agli iscritti del Giorno 1:**
+Se hai raccolto email, mandane una alle 9:00 AM PST. Oggetto semplice: "Come iniziare con [Nome prodotto] in 5 minuti". Includi il link al tutorial e una frase: "Se hai problemi con qualcosa, rispondimi direttamente a questa email."
 
-### Checklist Giorno 2
+> **Perché "rispondimi direttamente":** le email con risposta diretta abilitata ricevono più aperture e più risposte. I feedback che riceverai oggi sono oro — usali per migliorare il prodotto e per capire cosa non è chiaro nel tutorial.
+
+> ✏️ **CHECKPOINT Giorno 2:** Quante persone hanno completato il tutorial o hanno scritto chiedendo aiuto? Se ricevi molte domande sullo stesso passaggio, quel passaggio è da riscrivere o semplificare prima del lancio PH.
+
+**Checklist Giorno 2:**
 - [ ] Tutorial pubblicato (YouTube o thread X)
 - [ ] Email di attivazione inviata agli iscritti di ieri
 - [ ] Post su Discord nel canale #tutorials o #getting-started
-- [ ] KOL che hanno ripreso il tutorial/retweettato
+- [ ] Risposte alle domande ricevute sull'email e sui commenti
 
 ---
 
 ## Giorno 3 (mercoledì) — Feature principale #1
 
-**Obiettivo:** approfondire la feature più distintiva del prodotto. Questa è la giornata per il pubblico tecnico e per chi è già entrato ieri.
+**Obiettivo:** approfondire la feature più distintiva del prodotto per il pubblico tecnico e per chi è già entrato.
 
 ### Cosa pubblicare
 
-**Thread su X (formato consigliato):**
-Titolo: "Come [nome feature] funziona sotto il cofano — un thread per chi vuole capire davvero"
-Contenuto: 6–8 tweet che spiegano il "perché" della feature, non solo il "come".
+**Thread su X:**
+Titolo: "Come [nome feature] funziona sotto il cofano — per chi vuole capire davvero"
+Struttura: 6-8 tweet che spiegano il "perché" e il "come" della feature, con screenshot reali.
 
 **Post sul blog/sito:**
-Un articolo di 800–1.200 parole con lo stesso contenuto del thread, ottimizzato per SEO (vedi `seo-geo-guide.md` per i dettagli tecnici).
+Articolo di 800-1.200 parole con lo stesso contenuto del thread, ottimizzato per SEO (vedi `seo-geo-guide.md`). Il blog post è quello che porterà traffico per mesi — dedica 30 minuti in più a farlo bene.
 
-**KOL verticali:**
-Oggi è il momento giusto per i KOL con profilo più tecnico o specializzato. Un esperto del settore che analizza la tua feature pesa più di un generalist.
+**KOL verticals:**
+Oggi è il momento per i KOL con profilo più tecnico o specializzato. Un esperto del settore che analizza la tua feature pesa di più di un generalist.
 
-### Checklist Giorno 3
+> ✏️ **CHECKPOINT Giorno 3:** Il thread o il blog post ha ricevuto commenti con domande tecniche specifiche? Queste domande sono preziose: spesso rivelano confusione su come funziona la feature e ti danno materiale per le FAQ del sito.
+
+**Checklist Giorno 3:**
 - [ ] Thread su X pubblicato sulla feature #1
-- [ ] Post sul blog pubblicato
-- [ ] Articolo sottomesso a IndexNow (vedi `seo-geo-guide.md`)
-- [ ] KOL tecnico/verticale ha pubblicato un commento o review
+- [ ] Blog post pubblicato e ottimizzato per SEO
+- [ ] Blog post sottomesso a IndexNow (vedi `seo-geo-guide.md`)
+- [ ] KOL tecnico ha pubblicato un commento o review
 
 ---
 
 ## Giorno 4 (giovedì) — Feature principale #2
 
-**Stesso schema del giorno 3**, applicato alla seconda feature più importante.
+**Schema identico al Giorno 3**, applicato alla seconda feature più importante.
 
-**In aggiunta:** se hai raccolto testimonianze o casi d'uso reali nelle prime 72 ore, oggi è il giorno ideale per condividerle. Un thread con "5 modi creativi in cui i nostri utenti stanno usando [prodotto]" ottiene sempre ottimo engagement.
+**In aggiunta — se hai già raccolto casi d'uso reali:**
+Un thread "5 modi creativi in cui i nostri utenti stanno usando [prodotto]" ottiene tipicamente più engagement di qualsiasi contenuto puramente tecnico. Le persone si riconoscono nei casi d'uso degli altri e condividono.
+
+> ✏️ **CHECKPOINT Giorno 4:** Hai almeno 3 feedback positivi scritti da utenti reali che puoi usare come testimonianze? Se non li hai, oggi è il giorno di chiedere — manda un messaggio diretto ai 5-10 utenti più attivi.
+
+**Checklist Giorno 4:**
+- [ ] Thread o blog post sulla feature #2
+- [ ] Eventuale thread "casi d'uso reali"
+- [ ] 3 testimonianze raccolte (per la pagina PH e per il sito)
 
 ---
 
-## Giorno 5 (venerdì) — Community e annuncio Product Hunt
+## Giorno 5 (venerdì) — Community, recap e annuncio PH
 
-**Obiettivo:** chiudere la Launch Week con un momento collettivo, ringraziare la community, e creare anticipazione per il passo successivo (Product Hunt).
+**Obiettivo:** chiudere la Launch Week con un momento collettivo, ringraziare la community, e creare anticipazione per Product Hunt.
 
-### Cosa fare
+### AMA (Ask Me Anything) su Discord
 
-**AMA (Ask Me Anything) su Discord:**
-Organizza una sessione di domande aperte con il fondatore/team. Annunciala su X il mattino e tieni la sessione nel pomeriggio (12:00–14:00 PST è un buon orario). Le AMA mostrano trasparenza e costruiscono fiducia.
+Organizza una sessione di domande aperte con il fondatore/team. Annunciala su X la mattina, tienila nel pomeriggio (12:00–14:00 PST).
 
-**Thread di recap su X:**
-"Launch Week — quello che abbiamo imparato in 5 giorni"
-Condividi metriche aggregate (numero di utenti, feedback più ricorrenti, cosa stai costruendo dopo). L'onestà e i numeri reali creano connessione con la community.
+**Perché le AMA funzionano:** mostrano trasparenza, costruiscono fiducia, e generano commenti autentici — esattamente quello che ti servirà su PH la settimana successiva.
 
-**Annuncio Product Hunt:**
-Alla fine del recap, aggiungi: "La settimana prossima saremo su Product Hunt. Se vuoi supportarci, segui il nostro profilo PH qui: [link]. Ti avviseremo il giorno del lancio."
+### Thread di recap su X
 
-**Email alla mailing list:**
-Stessa struttura del recap, più personale. Ringrazia chi si è registrato, chiedi un feedback specifico su una cosa, annuncia PH.
+Titolo: "Launch Week — quello che abbiamo imparato in 5 giorni"
 
-### Checklist Giorno 5
-- [ ] AMA organizzata e condotta
+Contenuto (sii onesto, non solo positivo):
+- Numero di utenti registrati
+- Feedback più ricorrenti (anche quelli critici — mostrano che ascolti)
+- Cosa stai costruendo come prossimo passo
+- Annuncio PH: "La settimana prossima saremo su Product Hunt. Se vuoi supportarci: [link al profilo PH]"
+
+> **Perché la trasparenza qui funziona:** un fondatore che condivide metriche reali e ammette cosa non funziona ancora è infinitamente più credibile di uno che condivide solo i numeri positivi. La community di PH apprezza l'onestà.
+
+### Email alla mailing list
+
+Stessa struttura del recap, tono più personale. Ringrazia chi si è registrato, chiedi un feedback specifico su una cosa, annuncia PH con istruzioni chiare su come supportare.
+
+> ✏️ **CHECKPOINT FINE LAUNCH WEEK:** Prima di lanciare su PH la settimana successiva, verifica:
+> - Hai 50+ persone confermate pronte a commentare su PH (non solo upvotare)?
+> - Hai almeno 3 testimonianze scritte/video da utenti reali?
+> - Hai identificato i 2-3 problemi più segnalati e li hai risolti (o comunicato quando li risolverai)?
+> - Il sito regge il traffico?
+>
+> Se manca anche solo uno di questi punti, rimanda PH di 1-2 settimane. Non c'è fretta.
+
+**Checklist Giorno 5:**
+- [ ] AMA condotta su Discord
 - [ ] Thread recap pubblicato con metriche reali
 - [ ] Annuncio PH nel thread
 - [ ] Email alla lista inviata
-- [ ] Tutti i commenti della settimana a cui rispondere sono stati gestiti
+- [ ] Tutti i commenti della settimana gestiti
 
 ---
 
-## Dopo la Launch Week: momentum e preparazione PH
+## Settimana successiva: preparazione PH
 
-**Obiettivi della settimana successiva:**
-1. Raccogliere 3–5 testimonianze scritte da utenti soddisfatti (per la pagina PH e per il sito)
-2. Monitorare GitHub stars come indicatore di interesse della community developer
-3. Identificare i 2–3 bug o friction point più segnalati e risolverli prima del lancio PH
-4. Continuare a rispondere a ogni messaggio, commento e mention — questa è la fase in cui si costruisce il passaparola
+**Priorità della settimana:**
+1. Raccogliere 3-5 testimonianze scritte da utenti soddisfatti (per la pagina PH e per il sito)
+2. Risolvere i 2-3 bug o friction point più segnalati durante la Launch Week
+3. Verificare che tutti i profili PH del team siano attivi (qualche upvote su altri prodotti negli ultimi 7 giorni)
+4. Continuare a rispondere a ogni messaggio, commento e mention
 
-**Soglia raccomandata prima di PH:**
-- Almeno 300–500 GitHub stars (se il prodotto è open source o ha una componente tecnica)
-- Almeno 100 utenti attivi (non solo registrati)
-- Almeno 1 testimonianza video o scritta da un utente reale
-
-> **Nota:** se non raggiungi queste soglie, non significa che non puoi farlo il lancio su PH — significa che dovresti rimandarlo di 2–3 settimane per costruire più base. Un lancio PH con poco supporto di base non porta risultati e non si può rifare.
+Passa poi a `ph-launch.md` per il piano completo del lancio su Product Hunt.

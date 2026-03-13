@@ -1,122 +1,158 @@
-# Strategia di Lancio: Principi e Lezioni dai Prodotti Virali
+# Strategia di Lancio: Meccanismi, Esempi Reali, e Cosa Fare Tu
 
-> **Obiettivo di questo file:** darti i principi strategici ricavati da lanci reali (Manus, Devin e altri), trasformati in regole applicabili al tuo prodotto — non solo storie da raccontare.
-
----
-
-## I 4 Meccanismi che rendono virale un lancio
-
-Questi meccanismi ricorrono in tutti i lanci di successo. Se il tuo lancio non ne attiva almeno due, è difficile che si propaghi da solo.
-
-### Meccanismo 1: Il prodotto deve essere "videoabile"
-
-Il prodotto deve fare cose che si vedono sullo schermo, che sorprendono, e che l'utente riesce a riprodurre da solo.
-
-**Perché funziona:** quando un utente vede qualcosa di stupefacente e riesce a replicarlo sul suo computer, ha l'impulso naturale di condividerlo. La sorpresa personale diventa contenuto spontaneo.
-
-**Test pratico:** chiedi a qualcuno che non conosce il tuo prodotto di usarlo per 5 minuti mentre registra lo schermo. Ha detto "wow" almeno una volta? Quello è il momento da mettere nel Launch Video.
-
-**Esempio concreto:** Manus mostrava un computer che apriva 50 schede, eseguiva ricerche, scriveva codice, tutto in automatico. Era visivamente caotico e impressionante. Gli utenti potevano avviarlo sul loro computer e vedere la stessa cosa. Questo ha generato migliaia di video spontanei. Devin, al contrario, era difficile da far girare indipendentemente: l'effetto WOW non era replicabile, e la propagazione si è fermata prima.
-
-**Cosa fare tu:** prima di preparare qualsiasi materiale, identifica il momento "wow" del tuo prodotto. Se non riesci a trovarlo in 5 minuti di utilizzo, il problema non è il marketing — è il prodotto.
+> **Obiettivo di questo file:** darti i principi strategici che ricorrono in tutti i lanci di successo, trasformati in regole e azioni concrete. Ogni sezione "teorica" ha una sezione "cosa fai tu" separata e specifica.
 
 ---
 
-### Meccanismo 2: La narrativa emotiva emerge, non si pianifica — ma si può preparare il terreno
+## I 4 Meccanismi che fanno propagare un lancio
 
-I lanci più virali hanno tutti una narrativa emotiva forte ("il secondo momento Deepseek", "la fine dei programmatori"). Questa narrativa **non nasce dall'ufficio marketing** — nasce nei commenti, nei thread, nelle conversazioni private tra esperti.
-
-**Cosa puoi fare concretamente:**
-
-1. **Definisci il contesto storico:** cosa sta succedendo nel tuo settore in questo momento? Qual è la narrativa dominante a cui il tuo prodotto si oppone o si aggiunge?
-2. **Prepara i "ganci narrativi":** non li imporrai, ma puoi seminarli. Frasi come "il primo AI agent che fa davvero X" o "finalmente qualcuno ha risolto Y" nei tuoi materiali ufficiali danno ai commentatori un lessico da usare.
-3. **Lascia spazio all'interpretazione:** materiali troppo rigidi soffocano la conversazione. I tuoi Maker Comment su PH, i thread, i DM ai KOL devono lasciare una domanda aperta a cui le persone vogliono rispondere.
-
-**Segnale d'allarme:** se stai scrivendo tu stesso la narrativa emotiva del tuo lancio, stai sbagliando approccio. Il tuo lavoro è creare le condizioni perché altri la scoprano.
+Questi meccanismi ricorrono in tutti i lanci che hanno raggiunto un pubblico ampio. Se il tuo lancio non ne attiva almeno due, è difficile che si propaghi da solo senza un budget significativo.
 
 ---
 
-### Meccanismo 3: La catena di amplificazione — chi sono le persone giuste
+### Meccanismo 1: Il prodotto deve avere un momento "videoabile"
 
-Non hai bisogno di molte persone. Hai bisogno delle persone giuste, nell'ordine giusto.
+**Cos'è:** il prodotto fa qualcosa sullo schermo che sorprende, e l'utente riesce a replicarlo sul proprio computer.
 
-**La gerarchia della credibilità (dalla più alta alla più bassa):**
+**Perché funziona:** quando una persona vede qualcosa di inaspettato e riesce a riprodurlo da sola, ha l'impulso naturale di condividerlo. La sorpresa personale diventa contenuto spontaneo — senza che tu debba chiederglielo.
 
-| Tier | Chi sono | Perché funzionano |
-|:---|:---|:---|
-| **Tier 1** | Fondatori di aziende famose, ex-dirigenti di grandi tech, accademici riconosciuti | Hanno skin in the game — la loro reputazione è in gioco quando consigliano qualcosa |
-| **Tier 2** | Fondatori di newsletter tecniche con >50K iscritti attivi, ingegneri con forte seguito su X | Il loro pubblico è altamente qualificato e fidato |
-| **Tier 3** | Sviluppatori e creatori con 5K–50K follower, fortemente verticali nel tuo settore | Alto engagement, basso rumore, facili da approcciare |
-| **Tier 4** | Account "AI hype" con molti follower ma basso engagement reale | Poco valore pratico — evita di pagarli |
+**Esempio concreto (Manus, marzo 2025):** Manus mostrava un browser che apriva 50 schede, eseguiva ricerche, scriveva codice, tutto in automatico. Era visivamente caotico e impressionante. Ogni utente poteva avviarlo sul suo computer e vedere la stessa cosa. Questo ha generato migliaia di video spontanei. Devin, al contrario, era difficile da far girare indipendentemente — il momento "wow" non era replicabile facilmente, e la propagazione si è fermata prima.
 
-**Regola operativa:** 3 persone Tier 1 genuinamente entusiaste valgono più di 200 account Tier 4 pagati. Non inseguire i numeri — insegui la fiducia.
+**Cosa fai tu — 3 passi:**
+
+1. **Trova il momento "wow":** chiedi a qualcuno che non conosce il prodotto di usarlo per 5 minuti mentre registra lo schermo. Riguarda la registrazione: c'è un momento in cui ha rallentato, detto "aspetta" o sorriso? Quello è il tuo momento "wow".
+
+2. **Mettilo al centro del Launch Video:** il momento "wow" deve comparire entro i primi 15 secondi del video — non alla fine come "sorpresa".
+
+3. **Assicurati che sia replicabile:** l'utente che vede il video deve poter arrivare al tuo sito, registrarsi, e vedere la stessa cosa con i propri dati in meno di 5 minuti. Ogni ostacolo in questo percorso riduce il potenziale virale.
+
+> **Se non trovi un momento "wow" in 5 minuti di utilizzo:** il problema non è il marketing — è il prodotto. Il marketing può amplificare, ma non può creare qualcosa che non esiste.
+
+---
+
+### Meccanismo 2: La narrativa emerge dalla community — ma tu prepari il terreno
+
+**Cos'è:** i lanci più virali hanno tutti una narrativa emotiva forte che circola tra le persone ("il momento Deepseek europeo", "l'AI che ha sostituito un intero team"). Questa narrativa non viene scritta dall'ufficio marketing — nasce nei commenti, nei thread, nelle conversazioni tra esperti.
+
+**Il tuo ruolo non è scrivere la narrativa — è seminare le condizioni perché emerga.**
+
+**Cosa significa concretamente:**
+
+**Azione 1 — Collega il tuo prodotto a una tensione esistente nel settore:**
+Prima del lancio, identifica la domanda che agita la tua community in questo momento. Esempi:
+- "Gli agenti AI sono davvero utili o è ancora solo hype?"
+- "Come faccio a fare X senza spendere una fortuna in token?"
+- "Esiste un'alternativa a [tool dominante] che non costi quanto un appartamento?"
+
+Il tuo prodotto risponde a questa domanda? Se sì, usala come contesto nei tuoi materiali ufficiali — non come risposta definitiva, ma come punto di partenza.
+
+**Azione 2 — Scrivi il Maker Comment su PH con una domanda aperta:**
+Non concludere il Maker Comment con "fateci sapere cosa ne pensate" (troppo vago). Concludi con una domanda specifica che invita a rispondere: "Siamo particolarmente curiosi di sapere: come gestite oggi [problema specifico che il vostro prodotto risolve]?" I commenti che riceverai diranno molto su come la community inquadra il vostro prodotto.
+
+**Azione 3 — Lascia una tensione irrisolta nei tuoi post:**
+Un thread su X che finisce con "ecco tutto quello che c'è da sapere" non invita commenti. Un thread che finisce con "ma c'è ancora un problema irrisolto: [X]" genera discussione. La discussione è la narrativa che si costruisce da sola.
+
+**Segnale di allarme:** se stai scrivendo tu la narrativa del tuo lancio (es. "questo è il momento di X per l'Europa"), potrebbe non funzionare come pensi. Le narrative più forti arrivano quando altre persone — non il team — le formulano per prime. Il tuo lavoro è creare le condizioni, non il copione.
+
+---
+
+### Meccanismo 3: Le persone giuste nell'ordine giusto
+
+Non hai bisogno di molte persone. Hai bisogno delle persone giuste, contattate nel momento giusto.
+
+**La gerarchia di credibilità:**
+
+| Tier | Chi sono | Perché funzionano | Come trovarli |
+|:---|:---|:---|:---|
+| **Tier 1** | Fondatori di aziende riconosciute, ex-dirigenti di grandi tech, ricercatori con track record pubblico | La loro reputazione è in gioco quando consigliano qualcosa — il loro endorsement è costoso per loro | Tramite relazioni personali, eventi, o connessioni di secondo grado su LinkedIn |
+| **Tier 2** | Fondatori di newsletter con >30K iscritti attivi, engineer con forte seguito verticale su X | Il loro pubblico è qualificato e fidato — quando condividono qualcosa, vale | Cerca chi ha twittato su prodotti simili negli ultimi 3 mesi con engagement alto |
+| **Tier 3** | Creator con 5K–50K follower, fortemente verticali nel tuo settore | Alto engagement, basso rumore, facili da approcciare, spesso disposti a barter | nanoinfluencer.ai + ricerca manuale su X per keyword di settore |
+| **Tier 4** | Account "AI hype" con molti follower ma engagement basso o fake | Poco o nessun valore pratico | Evita — non contattare e non pagare |
+
+**Regola operativa:** 3 persone Tier 1-2 genuinamente entusiaste valgono più di 20 account Tier 3-4 pagati. Non inseguire i numeri di follower — insegui l'engagement reale e la verticalità nel tuo settore.
+
+**Come costruire relazioni con persone Tier 1 partendo da zero (processo in 4 passi):**
+
+1. **Identifica 10 persone Tier 1 nel tuo settore.** Cerca chi ha fondato aziende simili alla tua o chi ha scritto analisi influenti sulla categoria in cui operi.
+
+2. **Interagisci prima di chiedere.** Per 2-4 settimane, commenta i loro post con osservazioni di valore (non "ottimo post"). Condividi i loro contenuti quando sono rilevanti. Mandagli una risposta a qualcosa che hanno scritto che ti ha colpito — senza menzionare il tuo prodotto.
+
+3. **Fai il primo contatto con un angolo specifico.** Non "voglio farti vedere il mio prodotto". Invece: "Ho letto la tua analisi su [X] — ho costruito qualcosa che risponde esattamente a quella domanda. Posso mostrartelo in 10 minuti?"
+
+4. **Offri prima, chiedi dopo.** Prima di chiedere un tweet, chiedi un feedback. Il feedback genera conversazione, la conversazione genera fiducia, la fiducia genera un endorsement autentico.
 
 ---
 
 ### Meccanismo 4: La staffetta dei canali — non tutto insieme, ma in sequenza
 
-Ogni canale ha un ruolo diverso, e ognuno deve essere attivato al momento giusto.
+**Cos'è:** ogni canale ha un ruolo diverso. Lasciarli "scaldare" nel giusto ordine è più efficace che partire tutti insieme.
 
 **La sequenza ottimale:**
 
 ```
-Giorno 0–3: X/Twitter + community diretta
-    → Obiettivo: creare il primo momento di stupore, raccogliere i commenti "wow"
-    
-Giorno 3–10: YouTube + blog + Medium/Substack  
-    → Obiettivo: spiegare il prodotto in profondità, dare ai curiosi un posto dove andare
-    
-Giorno 10+: Reddit + Hacker News + forum di settore
-    → Obiettivo: discussione tecnica seria, feedback di qualità, traffico long-tail
-    
-Product Hunt: dopo aver accumulato prova sociale (star su GitHub, utenti attivi, video esistente)
+Giorni 0-3: X/Twitter + community diretta
+→ Obiettivo: il primo momento di sorpresa, i commenti "wow", la prova che funziona
+→ Chi: la tua community più vicina + KOL Tier 1 che hai già coinvolto
+→ Cosa non fare: non pubblicare su Reddit o su siti generalisti prima di avere questa base
+
+Giorni 3-10: YouTube + blog + Medium/Substack
+→ Obiettivo: spiegare il prodotto in profondità, dare ai curiosi un posto dove andare
+→ Chi: KOL Tier 2-3, creator che fanno tutorial
+→ Cosa non fare: non aspettare di avere un video perfetto — un tutorial scritto funziona uguale
+
+Giorni 10+: Reddit + Hacker News + forum di settore
+→ Obiettivo: discussione tecnica seria, feedback di qualità, traffico long-tail
+→ Chi: tu stesso, con un post autentico e non promozionale
+→ Cosa non fare: non postare su HN "Show HN: [prodotto]" il giorno 1 senza nessuna prova sociale
+
+Product Hunt: dopo Launch Week, con utenti reali e testimonianze già raccolte
 ```
 
-**Errore comune:** lanciare tutto il giorno 1. Se pubblichi su tutti i canali nello stesso giorno senza aver costruito nessuna base, non hai un "lancio" — hai un grido nel vuoto.
+**Analogia utile:** pensa al lancio come ad accendere un fuoco. Prima prepari la legna secca (prodotto solido, materiali pronti). Poi accendi la scintilla in un posto preciso (community più ricettiva, non tutti i canali insieme). Solo quando il fuoco brucia da solo aggiungi legna più grande (KOL, media, Product Hunt).
 
-**Analogia utile:** pensa al lancio come a un fuoco da accendere. Prima prepari la legna secca (prodotto solido, materiali pronti). Poi accendi la scintilla in un posto preciso (community più ricettiva). Solo quando il fuoco brucia bene aggiungi legna più grande (KOL, media, Product Hunt).
-
----
-
-## Lanci di riferimento: i principi distillati (non le storie)
-
-### Da Manus (marzo 2025) — cosa usare, cosa ignorare
-
-**Usare:**
-- Prodotto lanciato prima in un piccolo cerchio di fiducia (creatori cinesi di contenuti tech), poi amplificato organicamente all'estero
-- Il meccanismo di invito (waitlist) ha creato scarsità percepita senza bisogno di marketing aggressivo
-- Il Launch Video era centrato sul "computer che fa da solo" — visivamente potente, replicabile dall'utente
-- KOL chiave: poche persone selezionate (Rowan Cheung su X, Jen Zhu Scott), scelte per credibilità non per follower count
-
-**Non replicare:**
-- La scala: Manus ha avuto 200–300 milioni di impression perché è arrivato in un momento geopoliticamente carico (post-DeepSeek). Questo contesto non è replicabile su richiesta
-- I numeri assoluti di impression sono benchmark inutili per il 90% dei prodotti — usali come ispirazione, non come target
-
-### Da Devin (marzo 2024) — cosa usare, cosa ignorare
-
-**Usare:**
-- Approccio iper-minimalista al materiale ufficiale: 1 video + 1 blog post + 1 tweet. Tutto il resto è stato generato dalla community
-- Coinvolgimento di Patrick Collison (Stripe) e Andrej Karpathy (Tesla AI): persone con enorme credibilità tecnica e commerciale, non influencer generici
-- Bloomberg exclusive con un giornalista che ha testato il prodotto di persona: una sola storia autorevole vale più di 10 comunicati stampa
-
-**Non replicare:**
-- La narrativa "fine dei programmatori" ha funzionato perché era il 2024 e il tema era nuovo. Nel 2026 questa narrativa è consumata — trovane una propria
-- Devin aveva un budget importante e un team di PR strutturato dietro. Se non hai queste risorse, non imitare la scala, imita l'approccio
+**Errore più comune:** lanciare tutto il giorno 1. Se pubblichi su tutti i canali nello stesso giorno senza aver costruito nessuna base, non hai un lancio — hai un annuncio generico che scompare in 24 ore.
 
 ---
 
-## Domande diagnostiche: valuta la tua strategia
+## Lanci di riferimento: principi distillati
 
-Prima di muovere un euro o un'ora di lavoro, rispondi a queste domande:
+### Da Manus (marzo 2025) — cosa replicare
 
-**1. Conosci il tuo ICP in modo preciso?**
-Non "sviluppatori" — ma "sviluppatori backend che lavorano su prodotti B2B SaaS, usano Python/TypeScript, con team da 2–10 persone". Se non riesci a essere questo specifico, torna indietro.
+- **L'approccio:** lancio prima in un piccolo cerchio di fiducia (creator tech verticali), poi amplificato organicamente verso un pubblico più ampio.
+- **Il meccanismo di invito (waitlist):** ha creato scarsità percepita senza marketing aggressivo — le persone volevamo entrare perché altri ci stavano entrando.
+- **La scelta dei KOL:** poche persone selezionate per credibilità nel settore, non per follower count. Rowan Cheung su X (Rundown AI), non un account generico con 500K follower.
+
+**Cosa non replicare:**
+- I numeri assoluti (200-300M impression) dipendevano da un momento geopolitico unico (post-DeepSeek). Non è un benchmark raggiungibile per la maggior parte dei prodotti.
+- La scala complessiva: Manus aveva un team strutturato e relazioni consolidate. Se non le hai, imita il metodo, non i risultati.
+
+### Da Devin (marzo 2024) — cosa replicare
+
+- **La semplicità dei materiali:** 1 video + 1 blog post + 1 tweet. Tutto il resto è stato generato dalla community.
+- **La scelta dei validatori:** Patrick Collison (Stripe) e Andrej Karpathy — persone con credibilità tecnica e commerciale, non influencer generici.
+- **La copertura esclusiva:** un solo giornalista Bloomberg che ha testato il prodotto di persona — una storia autorevole vale più di 10 comunicati stampa.
+
+**Cosa non replicare:**
+- La narrativa "fine dei programmatori" era nuova nel 2024. Nel 2026 è consumata — trova una narrativa propria e specifica al tuo prodotto.
+- La PR strutturata: Devin aveva un budget e un team dedicato. Se non ce l'hai, scegli un canale e fallo bene.
+
+---
+
+## Domande diagnostiche: valuta la tua strategia prima di muovere risorse
+
+Rispondi onestamente a queste domande prima di spendere un euro o un'ora di lavoro:
+
+**1. Sai chi è il tuo ICP in modo preciso?**
+Non "developer" — ma "developer backend freelance, 25-35 anni, usa Python, lavora per startup da 2-10 persone, odia la documentazione". Se non sei a questo livello di specificità, torna a `preparation.md` Settimana 1.
 
 **2. Hai identificato il momento "wow" del prodotto?**
-Qual è la singola cosa che il tuo prodotto fa e che sorprende? Se non riesci a descriverla in una frase, il tuo Launch Video non sarà efficace.
+Puoi descriverlo in una frase senza usare "rivoluzionario" o "innovativo"? Se no, il Launch Video non sarà efficace.
 
-**3. Hai 5–10 persone nel Tier 1–2 che ti conoscono di persona o via email?**
-Se la risposta è no, la tua priorità nelle prossime settimane non è "creare contenuti" — è costruire relazioni con quelle persone.
+**3. Hai 3-5 persone Tier 1-2 che ti conoscono personalmente o via email?**
+Se la risposta è no, la tua priorità nelle prossime settimane non è "creare contenuti" — è costruire quelle relazioni.
 
-**4. Il tuo prodotto è stabile abbastanza da reggere un picco di traffico improvviso?**
-Un lancio virale porta migliaia di utenti in poche ore. Se il server va giù o la demo crasha davanti a 10.000 persone, il momento è perso per sempre. Testa prima.
+**4. Il prodotto è stabile sotto carico?**
+Un lancio virale porta migliaia di utenti in poche ore. Se il sito va giù o la demo crasha davanti a 10.000 persone, il momento è perso per sempre. Testa prima.
+
+**5. Sai come misurerai il successo?**
+Hai definito metriche specifiche (vedi `preparation.md`, Settimana 1, Passo 3)? Se non puoi misurare un canale, non spendere su quel canale.

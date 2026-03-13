@@ -1,260 +1,307 @@
 # Template di Comunicazione — Pronti all'Uso
 
-> **Come usare questo file:** ogni template ha una sezione "Quando usarlo" e "Come adattarlo". Non copiare e incollare senza personalizzare — i template generici si riconoscono e danneggiano la tua credibilità.
+> **Come usare questo file:** ogni template ha una sezione "Quando usarlo", "Come adattarlo", e "Errori comuni". Non copiare e incollare senza personalizzare — un template generico si riconosce immediatamente e danneggia la credibilità.
+>
+> **Regola pratica:** prima di usare qualsiasi template, sostituisci ogni `[...]` con informazioni reali e specifiche. Se non riesci a riempire un campo, è perché manca una decisione strategica a monte — torna a `preparation.md`.
 
 ---
 
 ## Template 1 — Tweet principale di lancio (Thread X)
 
-**Quando usarlo:** il giorno 1 della Launch Week, come primo contenuto pubblicato.
+**Quando usarlo:** Giorno 1 della Launch Week, come primo contenuto pubblicato su X.
 
-**Come funziona un thread efficace:** il primo tweet deve stare da solo (molte persone non leggono il thread). Deve contenere il hook, il prodotto e il video/GIF. I tweet successivi approfondiscono.
+**Principio chiave:** il primo tweet deve funzionare da solo — molte persone non leggono il thread. Deve contenere il hook, il prodotto, e il video/GIF. I tweet successivi approfondiscono.
+
+**Come adattarlo:** il Tweet 1 deve iniziare con il problema specifico del tuo ICP, non con "sono felice di annunciare". Sostituisci i `[...]` con situazioni concrete — usa i termini esatti che il tuo ICP userebbe.
 
 ```
-TWEET 1 (il più importante):
-[Descrivi il problema in una frase che il tuo ICP riconosce]
+TWEET 1 (il più importante — deve stare da solo):
+[Descrivi il problema in 1 frase che il tuo ICP riconosce immediatamente]
+[Es: "Scrivo documentazione API da 8 anni. La odio ogni volta."]
 
-Soluzione: [Nome prodotto] — [tagline]
+Ho costruito la soluzione: [Nome prodotto] — [tagline in una frase]
 
-[Video o GIF allegata]
+[Video o GIF allegata — obbligatorio]
 
-🔗 [Link al sito con UTM ?utm_source=twitter&utm_campaign=launch]
+🔗 [Link al sito: tuosito.com?utm_source=twitter&utm_campaign=launch]
 
 ---
 
 TWEET 2:
-Il problema che risolve:
+Il problema che risolve, in concreto:
 
-[2–3 bullet point con problemi concreti, non generici]
-• "Prima di [prodotto], [attività X] mi prendeva [tempo Y]"
-• [Altro punto dolente del tuo ICP]
+• [Problema 1 — formulato come esperienza vissuta, non come feature]
+  Es: "Swagger richiede 2 ore di configurazione per un endpoint semplice"
+• [Problema 2]
+• [Problema 3]
 
 ---
 
 TWEET 3:
 Come funziona in 3 passi:
 
-1️⃣ [Passo 1 — verbo d'azione]
-2️⃣ [Passo 2]
-3️⃣ [Risultato ottenuto]
+1️⃣ [Azione 1 — verbo d'azione concreto: "Collega il tuo repo GitHub"]
+2️⃣ [Azione 2 — "Seleziona gli endpoint da documentare"]
+3️⃣ [Risultato — "La documentazione è pronta in 2 minuti, in formato Markdown o HTML"]
 
-[GIF che mostra uno dei passi]
+[GIF che mostra uno dei 3 passi — preferibilmente il risultato finale]
 
 ---
 
 TWEET 4:
-Quello che lo rende diverso:
+[Nome prodotto] vs [alternativa che il tuo ICP usa già]:
 
-❌ [Nome alternativa/competitor]: [limitazione principale]
-✅ [Nome prodotto]: [come risolve quella limitazione]
+❌ [Alternativa]: [limitazione concreta e verificabile — no "è vecchio" o "è complicato"]
+   Es: "Swagger UI: configurazione manuale, output difficile da leggere per i clienti"
+✅ [Nome prodotto]: [come risolvi quella limitazione specifica]
+   Es: "Output professionale in formato leggibile, configurazione zero"
 
-[Non fare a gara con ogni competitor — scegli il confronto più rilevante per il tuo ICP]
+[Scegli 1 confronto — il più rilevante per il tuo ICP. Non elencare 5 competitor.]
 
 ---
 
-TWEET 5 (CTA):
-[Nome prodotto] è [free/open source/freemium — sii preciso]
+TWEET 5 (CTA finale):
+[Nome prodotto] è [free / open source / freemium con piano a $X — sii preciso]:
 
-[Link GitHub se open source: ⭐ Star us on GitHub: [link]]
-[Link community: 💬 Discord: [link]]
-[Link lancio PH se applicabile: 🔺 Support us on PH: [link]]
+[Se open source: ⭐ Stargate su GitHub: [link]]
+[Se community: 💬 Discord: [link]]
+[Se PH: 🔺 Stiamo lanciando su Product Hunt oggi: [link PH]]
 
-Grazie a chiunque lo stia provando in questi giorni 🙏
+Grazie a chi lo sta provando — ogni feedback conta 🙏
 ```
 
-**Errori comuni da evitare:**
-- Non iniziare con "Sono entusiasta di annunciare..." — inizia con il problema
-- Non usare aggettivi generici: "potente", "rivoluzionario", "game-changer" non dicono nulla
-- Non includere più di un link nel tweet 1 — confonde e riduce il click-through
+**Errori comuni:**
+- Iniziare con "Sono entusiasta di annunciare..." → inizia con il problema
+- Usare aggettivi generici: "potente", "rivoluzionario", "game-changer" → usa dati o situazioni concrete
+- Mettere più link nel Tweet 1 → un solo link, al sito
 
 ---
 
 ## Template 2 — Post di lancio su LinkedIn
 
-**Quando usarlo:** giorno 1 del lancio, separatamente da X. LinkedIn ha un algoritmo diverso — i post lunghi e personali performano meglio dei thread brevi.
+**Quando usarlo:** Giorno 1 del lancio, pubblicato separatamente da X.
 
-**Nota per prodotti B2B:** LinkedIn ha spesso una conversion rate migliore di X per tool professionali. Investi tempo in questo post.
+**Nota per prodotti B2B:** LinkedIn ha spesso conversion rate migliore di X per tool professionali. Investi tempo in questo post.
+
+**Come adattarlo:** il tono su LinkedIn deve essere più personale e narrativo rispetto a X. Non un comunicato stampa — una storia vera. Il "paragrafo personale" è la parte più importante.
 
 ```
-Dopo [X mesi/anni] di lavoro, oggi lanciamo [Nome prodotto].
+Dopo [X mesi] di lavoro, oggi lanciamo [Nome prodotto].
 
-[Paragrafo personale: 3–4 frasi che spiegano perché hai costruito questo.
-Non essere formale. Cosa ti ha frustrato? Qual era il problema che volevi risolvere tu per primo?]
+[Paragrafo personale — 3-4 frasi. Descrivi la situazione concreta che ti ha spinto a costruirlo.
+Non "volevamo migliorare X" — ma "ogni settimana passavo 4 ore a fare Y e ho capito che potevo automatizzarlo".
+Questo paragrafo è quello che le persone condividono — fallo reale.]
 
-[Nome prodotto] fa [cosa fa in una frase].
+[Nome prodotto] [cosa fa in una frase].
 
 In pratica:
-• [Beneficio concreto 1 — con un numero se possibile, es. "riduce il tempo di X del 60%"]
-• [Beneficio concreto 2]
-• [Beneficio concreto 3]
+• [Beneficio 1 — con un numero se possibile: "riduce il tempo di X da 2 ore a 5 minuti"]
+• [Beneficio 2]
+• [Beneficio 3]
 
-[Frase su chi lo sta già usando o su un risultato ottenuto in beta]
+[1 frase su chi lo sta già usando o su un risultato ottenuto in beta — anche piccolo. Es: "12 developer in beta hanno già generato oltre 200 pagine di documentazione."]
 
-Puoi provarlo gratuitamente: [link]
+Puoi provarlo gratis: [link]
 
-[Se su PH: Siamo anche su Product Hunt oggi — il vostro supporto conta molto: [link PH]]
+[Se su PH oggi: Siamo anche su Product Hunt — il supporto conta molto: [link PH]]
 
-#AI #[Categoria del prodotto] #Launch #[Keyword del tuo settore]
+#[keyword settore] #AI #Launch
 ```
 
-**Come adattarlo:**
-- Aggiungi una foto reale tua o del team (i post con immagini personali hanno un engagement 3× superiore)
-- Il tono deve essere sincero, non da comunicato stampa
+**Come migliorarlo:**
+- Aggiungi una foto reale tua o del team — i post con immagini personali hanno engagement 3× superiore
 - Tagga collaboratori o advisor che hanno contribuito (se lo fanno volentieri)
+- Non mettere il link nella caption se vuoi più reach — mettilo nel primo commento (l'algoritmo LinkedIn penalizza i link nella caption)
 
 ---
 
 ## Template 3 — Annuncio community Discord/Telegram
 
-**Quando usarlo:** il giorno 1 del lancio, appena il sito è live.
+**Quando usarlo:** Giorno 1 del lancio, appena il sito è live.
+
+**Come adattarlo:** il tono deve essere genuinamente festoso, non formale. Usa il nome delle persone se puoi (nei DM individuali). Nella versione broadcast, aggiungi un'emoji appropriata al tono della tua community.
 
 ```
 🚀 Siamo live!
 
-Oggi [Nome prodotto] è ufficialmente disponibile al pubblico.
+[Nome prodotto] è ufficialmente disponibile al pubblico da oggi.
 
-[Nome prodotto] è [descrizione in una frase semplice].
+[Nome prodotto] [descrizione in una frase semplice].
 
-[2–3 frasi su cosa cambia per gli utenti con questa versione pubblica — es. "ora potete invitare il vostro team", "è disponibile l'integrazione con Slack", ecc.]
+[2–3 frasi su cosa cambia con questa versione pubblica rispetto alla beta:
+es. "Ora potete invitare il vostro team", "È disponibile l'integrazione con Slack", "Il piano gratuito è senza limiti di tempo"]
 
-→ [Azione principale che vuoi che facciano, es. "Prova la nuova versione: [link]"]
-→ [Seconda azione, es. "Lascia il tuo feedback in #feedback"]
-[Se su PH: → "Se vuoi supportarci su Product Hunt: [link PH]"]
+→ [Azione principale: "Prova la versione aggiornata: [link]"]
+→ [Seconda azione: "Lascia il tuo feedback in #feedback — vogliamo sentire tutto, anche le critiche"]
+[Se su PH: → "Se vuoi supportarci su Product Hunt: [link PH] — un commento con la tua esperienza conta più di qualsiasi upvote"]
 
-Grazie per essere qui fin dall'inizio — il vostro feedback ci ha aiutato ad arrivare a questo punto 💛
-
-[Firma del team, con il nome delle persone — non "Il Team di X"]
+Grazie per essere stati qui fin dall'inizio 💛
+— [Firma con nome reale, non "Il Team di X"]
 ```
 
 ---
 
 ## Template 4 — Post Reddit (tre varianti)
 
-**Nota importante su Reddit:** ogni subreddit ha regole diverse. Prima di pubblicare, leggi le regole del subreddit e verifica che i post promozionali siano accettati. Alcuni subreddit richiedono un minimo di karma o di anzianità dell'account.
+**Regola fondamentale su Reddit:** l'autenticità non è opzionale. Reddit riconosce immediatamente il tono da press release e lo ignora — o peggio, lo downvota. Devi essere reale, ammettere i limiti, e fare domande genuine. **Prima di postare, leggi le regole del subreddit** — molti non permettono post promozionali diretti.
 
-**Cosa funziona su Reddit:** autenticità, ammissione dei limiti del tuo prodotto, domande genuine alla community. Quello che non funziona: tono da press release, link spam, evitare le critiche.
-
-### Variante A — Product launch (r/SideProject, r/indiehackers)
+### Variante A — Product launch (r/SideProject, r/indiehackers, r/startups)
 
 ```
-Titolo: Ho trascorso [X mesi] a costruire [soluzione specifica] — finalmente è live, feedback benvenuti
+Titolo: Ho trascorso [X mesi] a costruire [soluzione specifica] — finalmente è live
 
-Ciao a tutti,
+Ciao,
 
-[2–3 frasi personali su chi sei e cosa stai costruendo. Non curriculum vitae — contesto umano.]
+[2–3 frasi su chi sei — non curriculum vitae. Contesto umano: "Sono uno sviluppatore freelance che odiava scrivere documentazione ogni volta che finiva un progetto".
 
-Il problema che volevo risolvere: [descrizione concreta, 2–3 frasi. Parla di un'esperienza diretta se puoi.]
+Il problema che volevo risolvere: [descrizione concreta, 2-3 frasi. Parla di una situazione specifica che hai vissuto — non "molte persone hanno questo problema".]
 
-Quello che ho costruito: [Nome prodotto] — [una frase]. 
+Quello che ho costruito: [Nome prodotto] — [una frase].
 
-Funzionalità principali:
+Funziona così:
 • [Feature 1 — descritta come beneficio, non come spec tecnica]
 • [Feature 2]
 • [Feature 3]
 
-Dove siamo: [Beta / v1.0 / free mentre costruiamo / freemium — sii preciso]
+Dove siamo: [Beta / v1.0 / freemium — sii preciso. Includi una limitazione reale che stai ancora risolvendo.]
 
-Link: [sito] | [GitHub se open source] | [Product Hunt se applicabile]
+Link: [sito] | [GitHub se open source]
 
-Quello su cui sono particolarmente curioso di sentire feedback: [domanda specifica e genuina]
-
-Grazie!
+La cosa su cui sono più curioso di avere feedback: [domanda specifica e genuina — non "cosa ne pensate in generale?"]
 ```
 
-### Variante B — Discussion thread (r/AItools, r/productivity)
+### Variante B — Discussion thread (r/AItools, r/productivity, r/webdev)
+
+**Quando usarla:** quando vuoi entrare in una conversazione organica invece di fare un annuncio diretto.
 
 ```
 Titolo: Qual è il tool AI più sottovalutato che usi per [problema specifico]?
 
 Sto esplorando tool per [problema specifico] da qualche settimana.
-Ho provato [competitor 1] e [competitor 2] — entrambi buoni, ma ho trovato che [limitazione concreta].
+Ho provato [competitor 1] e [competitor 2] — entrambi utili, ma ho trovato che [limitazione concreta e specifica — non "sono complicati"].
 
-Di recente ho iniziato a usare [Nome prodotto] per [use case specifico] e mi ha sorpreso per [ragione specifica].
+Recentemente ho iniziato a usare [Nome prodotto] per [use case specifico] e mi ha sorpreso per [ragione specifica e verificabile — non "è meglio"].
 
-Voi cosa usate per questo problema? Ci sono alternative che non conosco?
+Voi cosa usate? Ci sono alternative che non conosco?
 
-[Non linkare il sito nel corpo del post se sei il fondatore — Reddit lo vede come spam. Puoi farlo nei commenti se la conversazione lo richiede naturalmente.]
+[Nota: non mettere il link al sito nel corpo del post se sei il fondatore — Reddit lo vede come spam. Puoi rispondere nei commenti se la conversazione lo richiede naturalmente.]
 ```
 
-### Variante C — Comparison post (r/ChatGPT, r/artificial)
+### Variante C — Comparison post (r/ChatGPT, r/artificial, r/MachineLearning)
+
+**Quando usarla:** quando hai fatto un confronto reale e puoi condividere dati specifici.
 
 ```
-Titolo: Ho confrontato [Nome prodotto] vs [Competitor principale] per [use case] — risultati inaspettati
+Titolo: Ho confrontato [Nome prodotto] vs [Competitor] per [use case] — risultati inaspettati
 
-[2–3 frasi di contesto: chi sei, perché hai fatto questo confronto]
+[2–3 frasi di contesto: chi sei, perché hai fatto questo confronto, quanto tempo ci hai dedicato]
 
-Contesto: uso [Competitor] da [X mesi] principalmente per [use case]. Ho iniziato a testare [Nome prodotto] perché [ragione genuina].
+Contesto: uso [Competitor] da [X mesi] principalmente per [use case specifico]. Ho iniziato a testare [Nome prodotto] perché [ragione genuina — non "volevo confrontarli"].
 
-Il confronto:
+Il confronto (per il mio use case specifico):
 
 [Competitor]:
-✅ [Punto di forza reale]
+✅ [Punto di forza reale — dati se possibile]
 ✅ [Altro punto di forza]
-❌ [Limitazione che hai riscontrato tu — sii specifico, non generico]
+❌ [Limitazione che hai riscontrato nella pratica — specifica, non generica]
 
 [Nome prodotto]:
 ✅ [Come risolve la limitazione sopra]
-✅ [Altro punto di forza]
+✅ [Altro punto di forza — con dati se possibile]
 ❌ [Limitazione onesta — non fingere che sia perfetto]
 
-Conclusione per il mio use case: [X funziona meglio per Y, Z funziona meglio per W]
+Conclusione per il mio caso: [X funziona meglio per Y, Z funziona meglio per W — sii specifico]
 
-Qualcuno ha fatto confronti simili? Sono curioso di capire se dipende dal tipo di utilizzo.
+Note metodologiche: [quanto tempo hai testato, che tipo di dati hai usato, limiti del confronto]
+
+Curiosità: qualcuno ha fatto confronti simili con altri tool? I risultati variano molto in base al tipo di utilizzo?
 ```
 
 ---
 
 ## Template 5 — Email di outreach a KOL
 
-**Quando usarlo:** L-4 settimane per le newsletter principali, L-2 per i creator su X.
+**Quando usarlo:** L-6 settimane per le newsletter principali, L-2 per i creator su X.
 
-**Regola d'oro:** il tuo messaggio deve rispondere alla domanda non scritta del KOL: "Perché dovrei dedicare il mio tempo e la mia credibilità a questo?" Se non rispondi a questa domanda, non risponderà.
+**Principio:** il tuo messaggio deve rispondere alla domanda implicita del KOL: "Perché dovrei dedicare il mio tempo e la mia reputazione a questo?" Se non rispondi a questa domanda nella prima frase, non leggeranno il resto.
+
+**Come adattarlo:** la prima frase deve dimostrare che conosci il loro lavoro nello specifico — non "ho letto il tuo contenuto" ma "hai scritto [titolo specifico] il [data] — hai identificato esattamente il problema che ho cercato di risolvere".
 
 ```
-Oggetto: Collaborazione per il lancio di [Nome prodotto] — [data]
+Oggetto: Collaborazione lancio [Nome prodotto] — [data precisa]
 
 Ciao [Nome],
 
-[1 frase che dimostra che lo segui davvero — cita un suo contenuto specifico, non "ho letto il tuo lavoro".]
+[Prima frase — cita qualcosa di specifico che hanno pubblicato recentemente: titolo, data, punto preciso che ti ha colpito. Questa frase dimostra che li segui davvero.]
 
-Sto per lanciare [Nome prodotto] — [tagline in una frase]. 
+Lancio [Nome prodotto] il [data] — [tagline in una frase]. Penso sia rilevante per il tuo pubblico perché [ragione specifica collegata ai loro contenuti — non "il tuo pubblico è interessato all'AI"].
 
-Penso sia rilevante per il tuo pubblico perché [ragione specifica, collegata al tipo di contenuto che pubblica].
+Quello che ti chiedo: [sii preciso — "un thread di 5-8 tweet il [data]", "una menzione nella newsletter del [data]", "una breve review video entro il [data]"]
 
-Quello che ti chiedo: [sii preciso — "un thread di 5–8 tweet", "una menzione nella tua newsletter del [data]", "una breve review video"]
+In cambio: [sii diretto — "accesso gratuito completo + [compenso o altra forma di valore concreto]"]
 
-In cambio offro: [accesso anticipato completo + [compenso o altra forma di valore — sii diretto, non vago]]
+Il lancio è il [data]. Ti invio il Content Package completo (video, materiali, key talking points, UTM link personalizzato) appena mi dai conferma.
 
-Il lancio è previsto per il [data]. Ti mando il Content Package completo (video, materiali, key talking points) non appena sei interessato.
-
-[Alternativa opzionale: "Se non sei disponibile ma conosci qualcuno a cui potrebbe interessare, sarei grato di una segnalazione."]
+[Frase opzionale: "Se non sei disponibile per il [data], sono flessibile sulle settimane successive."]
 
 Grazie del tempo,
 [Nome] | [Prodotto] | [Link sito]
 ```
 
-**Cosa fare se non risponde:** aspetta 5–7 giorni, poi un follow-up di una riga: "Ciao [Nome], solo un ping — sei interessato?" Non spiegare di nuovo tutto. Se non risponde al follow-up, non insistere.
+**Follow-up se non risponde:** aspetta 5-7 giorni, poi un messaggio di una riga: "Ciao [Nome], solo un ping — sei interessato?" Non riepilogare tutto di nuovo. Se non risponde al follow-up, non insistere — non è il momento giusto per loro.
 
 ---
 
 ## Template 6 — DM a potenziali utenti (outreach freddo)
 
-**Quando usarlo:** outreach diretto su X o LinkedIn a persone che corrispondono al tuo ICP e che hanno espresso il problema che risolvi.
+**Quando usarlo:** su X o LinkedIn a persone che corrispondono al tuo ICP e che hanno espresso il problema che risolvi.
 
-**Principio:** questo funziona solo se hai motivo di credere che questa persona abbia il problema che risolvi. Non mandarlo a caso.
+**Principio:** funziona solo se hai un motivo specifico per contattare quella persona. Non mandarlo a caso.
+
+**Come adattarlo:** la prima frase deve citare qualcosa di specifico che quella persona ha scritto — un tweet, un post, una domanda in un forum. Senza questo aggancio specifico, il messaggio è spam.
 
 ```
 Ciao [Nome],
 
-Ho visto il tuo post su [argomento specifico] — [una frase che mostra che l'hai letto davvero].
+Ho visto [post/tweet/domanda specifica] su [argomento] — [una frase che mostra che l'hai letto davvero, non solo scansionato].
 
-Stavo costruendo qualcosa che potrebbe essere rilevante: [Nome prodotto] fa [cosa fa in una frase].
+Stavo costruendo qualcosa che potrebbe essere rilevante: [Nome prodotto] [cosa fa in una frase].
 
-Sarei curioso di sapere se il problema che risolve è qualcosa con cui ti scontri nel tuo lavoro. Se ti va, ti faccio avere accesso gratuito per un po' di feedback.
+Sarei curioso di sapere se [problema che risolvi] è qualcosa con cui ti scontri nel tuo lavoro. Se ti va, ti faccio avere accesso gratuito in cambio di feedback onesto.
 
 Nessuna pressione — se non è il momento giusto va benissimo.
 
 [Nome]
 ```
 
-**Nota:** non includere mai un link nel primo messaggio su LinkedIn — viene filtrato come spam. Prima aspetta la risposta, poi condividi il link.
+**Nota per LinkedIn:** non includere mai un link nel primo messaggio — viene filtrato come spam. Aspetta la risposta, poi condividi il link.
+
+---
+
+## Template 7 — Email di follow-up post-lancio (per raccogliere testimonianze)
+
+**Quando usarlo:** 3-7 giorni dopo che un utente ha iniziato a usare il prodotto attivamente.
+
+**Come adattarlo:** personalizza la prima riga con qualcosa di specifico sull'utilizzo di quella persona se possibile (es. "ho visto che hai già generato 5 documenti").
+
+```
+Oggetto: Feedback rapido su [Nome prodotto]?
+
+Ciao [Nome],
+
+Grazie per aver provato [Nome prodotto] questa settimana.
+
+Ho una domanda diretta: c'è qualcosa che ti ha sorpreso (in positivo o negativo)?
+
+Qualsiasi feedback — anche "questa cosa non funziona" — è prezioso in questa fase.
+
+Se hai un minuto, mi interessa sapere:
+- Qual è la prima cosa che hai fatto con il prodotto?
+- C'è qualcosa che ti aspettavi di fare e non hai trovato?
+
+Rispondi pure a questa email — leggo personalmente ogni messaggio.
+
+[Firma con nome reale]
+
+P.S. Se [Nome prodotto] ti sta aiutando concretamente, sarei grato se volessi condividere la tua esperienza in una breve recensione su [Product Hunt / G2 / il canale che preferisci]. Non è obbligatorio — solo se ti va.
+```
